@@ -6,7 +6,7 @@
 
 ---
 
-Control the PC you left running at home from your phone or tablet, even when you are on a different network. You pair your phone **once**; after that it connects without a password, and you can cut the connection from the PC at any moment.
+Reach and control a **PC or server** you left running, from your phone or tablet, even when you are on a different network: terminal, agents, screen, files and live system health. You pair your phone **once**; after that it connects without a password, and you can cut the connection from the machine at any moment.
 
 The app is available in **English, German and Turkish**. You can switch at any time (see [Language](#language)).
 

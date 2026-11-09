@@ -6,7 +6,7 @@
 
 ---
 
-Evde açık bıraktığınız PC'ye telefondan ya da tabletten, farklı internetlerde bile bağlanırsınız. Telefon **bir kez eşleştirilir**, sonra şifre sormadan bağlanır. Bağlantıyı PC'den istediğiniz an kesersiniz.
+Açık bıraktığınız bir **PC'ye veya sunucuya** telefondan ya da tabletten, farklı internetlerde bile bağlanıp kontrol edersiniz: terminal, agentlar, ekran, dosyalar ve canlı sistem durumu. Telefon **bir kez eşleştirilir**, sonra şifre sormadan bağlanır. Bağlantıyı makineden istediğiniz an kesersiniz.
 
 Uygulama **Türkçe, İngilizce ve Almanca** kullanılabilir. Dili istediğiniz an değiştirebilirsiniz (bkz. [Dil](#dil)).
 

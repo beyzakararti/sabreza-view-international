@@ -6,7 +6,7 @@
 
 ---
 
-Steuern Sie den PC, der zu Hause läuft, von Ihrem Smartphone oder Tablet aus – auch aus einem ganz anderen Netz. Das Smartphone wird **einmal** gekoppelt; danach verbindet es sich ohne Passwort, und Sie können die Verbindung jederzeit am PC trennen.
+Erreichen und steuern Sie einen **PC oder Server**, den Sie laufen lassen, von Ihrem Smartphone oder Tablet aus – auch aus einem ganz anderen Netz: Terminal, Agenten, Bildschirm, Dateien und der Live-Systemzustand. Das Smartphone wird **einmal** gekoppelt; danach verbindet es sich ohne Passwort, und Sie können die Verbindung jederzeit an der Maschine trennen.
 
 Die App gibt es auf **Deutsch, Englisch und Türkisch**. Sie können die Sprache jederzeit wechseln (siehe [Sprache](#sprache)).
 
