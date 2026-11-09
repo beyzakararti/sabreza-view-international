@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">sabreza-view international</title>
+  <desc id="desc">Large white "sabreza-view" title with the word "international" on a black and grey background, a light slowly passes over the letters. Below: Your PC in your pocket · PC'niz cebinizde · Ihr PC in der Tasche.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080808"/>
+      <stop offset="0.5" stop-color="#242424"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="letters">
+      <text x="600" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-4">sabreza-view</text>
+    </clipPath>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) { .moving-light { display: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="238" rx="26" fill="url(#background)" stroke="#555" stroke-width="2"/>
+  <path d="M37 37h100M1063 37h100M37 203h100M1063 203h100" fill="none" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <text x="600" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-4" fill="#ddd">sabreza-view</text>
+  <g clip-path="url(#letters)" class="moving-light">
+    <rect x="-420" y="34" width="420" height="108" fill="url(#light)">
+      <animate attributeName="x" from="-420" to="1200" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="600" y="160" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="9" fill="#e07b5a">INTERNATIONAL</text>
+  <path d="M380 176h440" fill="none" stroke="#777" stroke-width="1"/>
+  <text x="600" y="204" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2" fill="#bcbcbc">YOUR PC IN YOUR POCKET · PC'NİZ CEBİNİZDE · IHR PC IN DER TASCHE</text>
+</svg>
