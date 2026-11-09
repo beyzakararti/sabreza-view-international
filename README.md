@@ -38,7 +38,7 @@ The app is available in **English, German and Turkish**. You can switch at any t
 | 🍏 **iPhone / iPad** | *No file needed* | The web app is added to the Home Screen from Safari ([how](#iphone)) |
 | 🍎 **macOS** Apple Silicon (PC) | [Sabreza-View-macOS-AppleSilicon.dmg](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-macOS-AppleSilicon.dmg) | Experimental ([details](#macos-linux)) |
 | 🍎 **macOS** Intel (PC) | [Sabreza-View-macOS-Intel.dmg](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-macOS-Intel.dmg) | Experimental |
-| 🐧 **Linux** (PC) | [AppImage](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.AppImage) · [.deb](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-amd64.deb) · [.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) | Terminal and agents only, no screen sharing |
+| 🐧 **Linux** (PC) | [.deb](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-amd64.deb) · [.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) | Terminal and agents only, no screen sharing |
 
 All versions, release notes and checksums: **[Releases](https://github.com/beyzakararti/sabreza-view-international/releases)**. You can [verify the files](#verify) before installing.
 

@@ -38,7 +38,7 @@ Uygulama **Türkçe, İngilizce ve Almanca** kullanılabilir. Dili istediğiniz 
 | 🍏 **iPhone / iPad** | *Dosya gerekmez* | Safari'den ana ekrana eklenen web uygulaması kullanılır ([nasıl](#iphone)) |
 | 🍎 **macOS** Apple Silicon (PC) | [Sabreza-View-macOS-AppleSilicon.dmg](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-macOS-AppleSilicon.dmg) | Deneysel ([ayrıntılar](#macos-linux)) |
 | 🍎 **macOS** Intel (PC) | [Sabreza-View-macOS-Intel.dmg](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-macOS-Intel.dmg) | Deneysel |
-| 🐧 **Linux** (PC) | [AppImage](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.AppImage) · [.deb](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-amd64.deb) · [.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) | Yalnızca terminal ve agentlar, ekran paylaşımı yok |
+| 🐧 **Linux** (PC) | [.deb](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-amd64.deb) · [.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) | Yalnızca terminal ve agentlar, ekran paylaşımı yok |
 
 Tüm sürümler, sürüm notları ve özetler: **[Releases](https://github.com/beyzakararti/sabreza-view-international/releases)**. Kurmadan önce [dosyaları doğrulayabilirsiniz](#dogrula).
 
