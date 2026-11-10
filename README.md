@@ -12,6 +12,13 @@ The app is available in **English, German and Turkish**. You can switch at any t
 
 🔒 **Security comes first.** Your PC is never exposed to the internet (with Tailscale only your own devices can reach it). Every device is paired from the PC, a PIN lock and an attack blocker are always on, and every action is logged. Details below in [Security layers](#security).
 
+## Source code access
+
+If you would like access to the source code of this application, please contact me using the details below.
+
+- Phone: [+49 15253371943](tel:+4915253371943)
+- Email: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
 ## Contents
 
 - [Download](#download)
