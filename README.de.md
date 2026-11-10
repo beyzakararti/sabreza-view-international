@@ -12,6 +12,13 @@ Die App gibt es auf **Deutsch, Englisch und Türkisch**. Sie können die Sprache
 
 🔒 **Sicherheit ist das Grundprinzip.** Ihr PC wird nie ins Internet geöffnet (mit Tailscale erreichen ihn nur Ihre eigenen Geräte). Jedes Gerät wird am PC gekoppelt, PIN-Sperre und Angriffsschutz sind immer aktiv, und jede Aktion wird protokolliert. Details unten unter [Sicherheitsebenen](#sicherheit).
 
+## Zugang zum Quellcode
+
+Wenn Sie Zugang zum Quellcode dieser Anwendung wünschen, kontaktieren Sie mich bitte über die folgenden Kontaktdaten.
+
+- Telefon: [+49 15253371943](tel:+4915253371943)
+- E-Mail: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
 ## Inhalt
 
 - [Download](#download)
