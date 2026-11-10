@@ -12,6 +12,13 @@ Uygulama **Türkçe, İngilizce ve Almanca** kullanılabilir. Dili istediğiniz 
 
 🔒 **Güvenlik temel tasarımdır.** PC internete açılmaz (Tailscale ile yalnızca sizin cihazlarınız bağlanır). Her cihaz PC'den eşleştirilir, PIN kilidi ve saldırı engelleme çalışır, her işlem kayda geçer. Ayrıntılar aşağıdaki [Güvenlik katmanları](#guvenlik) bölümünde.
 
+## Kaynak koda erişim
+
+Geliştirilen programın kaynak kodlarına erişmek isterseniz aşağıdaki iletişim bilgileri üzerinden benimle iletişime geçebilirsiniz.
+
+- Telefon: [+49 15253371943](tel:+4915253371943)
+- E-posta: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
 ## İçindekiler
 
 - [İndir](#indir)
