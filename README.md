@@ -262,3 +262,5 @@ The agent prints a **token**. On the PC panel (**http://localhost:7373/admin →
 - Checking usage limits **costs no tokens**. Limits are only shown for subscriptions (claude.ai / ChatGPT account); API-key usage has no plan limits.
 - With mouse/keyboard control on, every key you type in the Screen tab goes to the PC – including browser shortcuts such as F5 or Ctrl+R. Turn control off with 🖱 when you're not using it.
 - Your phone and tablet can be connected to the same PC at the same time.
+
+This project is licensed under CC BY-NC-ND 4.0
