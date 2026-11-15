@@ -1,4 +1,4 @@
-# Sabreza View International — consent-based remote access
+<p align="center"><img src="docs/title.svg" width="1200" alt="Sabreza View International — JavaScript, Rust, Kotlin, PowerShell, HTML / CSS"></p>
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
@@ -29,7 +29,7 @@ The installer may display the product name **sabreza-view-lab**. This release us
 
 ## Install and consent
 
-1. Download the correct installer and check its SHA-256 against `SHA256https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt.txt`.
+1. Download the correct installer and check its SHA-256 against [SHA256SUMS.txt](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt).
 2. Install and open the application. Read the operator name, remote-access scope, and disconnect instructions.
 3. Choose **Accept** only if you want the described access, or **Decline**. You do not enter an enrollment key, pairing PIN, Tailscale login, or Cloudflare account for this registration.
 4. After acceptance and successful connection, the computer appears in the operator's center. Both computers need internet access and the center must be running. If enrollment fails, the application displays an error; retry after connectivity is restored.
@@ -42,6 +42,23 @@ The connection helper is bundled and verified during the build. Desktop traffic 
 No shared center enrollment secret is distributed in the installer. Each device creates its own credentials automatically. Technical credentials are not a substitute for your explicit consent. Never share device keys, account passwords, or personal configuration files.
 
 Existing older installations are not silently enrolled or migrated. Replacing the center or changing its address may require updated client configuration. A consent checkbox does not replace operating-system permissions.
+
+
+## How the connection works
+
+![A connection you choose.](docs/how-it-works.svg)
+
+No operator registration before consent. You can disconnect at any time.
+
+## Built with
+
+| Layer | Technology |
+|---|---|
+| Server / Web UI | JavaScript · Node.js · HTML · CSS |
+| Desktop | Rust · Tauri |
+| Android | Kotlin |
+| Windows integration | PowerShell |
+| Transport | Cloudflare Tunnel · Tailscale Funnel · HTTPS |
 
 ## Other usage modes
 

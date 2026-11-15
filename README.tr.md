@@ -1,4 +1,4 @@
-# Sabreza View International — açık onaylı uzaktan erişim
+<p align="center"><img src="docs/title.tr.svg" width="1200" alt="Sabreza View International — JavaScript, Rust, Kotlin, PowerShell, HTML / CSS"></p>
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
@@ -21,7 +21,7 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** APK, yay?mlanm?? v0.3.8 telefon istemcisinin de?i?memi? ve ?zeti do?rulanm?? kopyas?d?r; yeni derlenmi? v0.3.9 APK's? de?ildir.
+**Android:** APK, yayımlanmış v0.3.8 telefon istemcisinin değişmemiş ve özeti doğrulanmış kopyasıdır; yeni derlenmiş v0.3.9 APK'sı değildir.
 
 [Sürüm geçmişi](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 özetleri](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
@@ -29,7 +29,7 @@ Kurulumda ürün adı **sabreza-view-lab** görünebilir. Bu sürüm eski kişis
 
 ## Kurulum ve onay
 
-1. Uygun paketi indirip SHA-256 özetini `SHA256https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt.txt` ile karşılaştırın.
+1. Uygun paketi indirip SHA-256 özetini [SHA256SUMS.txt](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt) ile karşılaştırın.
 2. Kurup uygulamayı açın. Operatör adını, uzaktan erişim kapsamını ve bağlantıyı kesme açıklamasını okuyun.
 3. İstiyorsanız **Kabul et**, istemiyorsanız **Reddet** seçin. Bu kayıt için katılım anahtarı, eşleştirme PIN'i, Tailscale girişi veya Cloudflare hesabı istenmez.
 4. Onaydan ve başarılı bağlantıdan sonra bilgisayar operatörün merkezinde görünür. İki bilgisayar internete bağlı, merkez çalışır durumda olmalıdır. Kayıt başarısızsa hata gösterilir; bağlantı düzeldikten sonra yeniden deneyin.
@@ -42,6 +42,23 @@ Bağlantı aracı pakete dahildir ve derlemede özeti doğrulanır. Masaüstü b
 Ortak merkez katılım anahtarı kurulum paketinde dağıtılmaz. Cihaz kendi güvenlik anahtarlarını otomatik üretir. Teknik anahtarlar açık kullanıcı onayının yerine geçmez. Cihaz anahtarlarını, hesap şifrelerini ve kişisel yapılandırma dosyalarını paylaşmayın.
 
 Eski kurulumlar sessizce merkeze eklenmez veya taşınmaz. Merkezin ya da adresinin değişmesi istemci yapılandırmasının güncellenmesini gerektirebilir. Uygulamadaki onay işletim sistemi izinlerinin yerine geçmez.
+
+
+## Bağlantı nasıl çalışır?
+
+![Bağlantıya sen karar ver.](docs/how-it-works.tr.svg)
+
+Onaydan önce operatöre kayıt yok. Bağlantıyı istediğin an kesebilirsin.
+
+## Kullanılan teknolojiler
+
+| Katman | Teknoloji |
+|---|---|
+| Sunucu / Web arayüzü | JavaScript · Node.js · HTML · CSS |
+| Masaüstü | Rust · Tauri |
+| Android | Kotlin |
+| Windows entegrasyonu | PowerShell |
+| Bağlantı | Cloudflare Tunnel · Tailscale Funnel · HTTPS |
 
 ## Diğer kullanım biçimleri
 

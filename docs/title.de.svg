@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Sabreza View International</title><desc id="desc">Dein Bildschirm. Deine Freigabe. Deine Kontrolle. JavaScript, Node.js, Rust, Tauri, Kotlin, PowerShell, HTML and CSS.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#263238" stroke-width=".7"/></pattern><linearGradient id="wash"><stop stop-color="#081319"/><stop offset="1" stop-color="#101b24"/></linearGradient></defs>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+<rect width="1200" height="440" fill="#090e14"/><rect width="1200" height="440" fill="url(#grid)" opacity=".4"/><path d="M670 0H1200V440H800Z" fill="url(#wash)"/>
+<path d="M0 0H1200V440H0Z" fill="none" stroke="#33404b" stroke-width="2"/><path d="M0 0H130V5H0Z" fill="#91f4d1"/>
+<text x="40" y="48" font-size="14" fill="#92b2b6" class="mono" letter-spacing="1.4">FERNZUGRIFF / AUSDRÜCKLICHE ZUSTIMMUNG</text>
+<text x="780" y="182" font-size="132" fill="#142a30" font-weight="800">JS</text>
+<text x="1002" y="323" font-size="126" fill="#182b33" font-weight="800">RS</text>
+<text x="36" y="158" font-size="92" fill="#f1f4ec" font-weight="800" letter-spacing="-5">SABREZA</text>
+<text x="39" y="231" font-size="75" fill="#91f4d1" font-weight="300" letter-spacing="8">VIEW</text>
+<path d="M287 187V235" stroke="#4a6469"/>
+<text x="308" y="216" font-size="22" fill="#d1ddd9" class="mono" letter-spacing="2">INTERNATIONAL</text>
+<text x="42" y="279" font-size="23" fill="#c3cfce" >Dein Bildschirm. Deine Freigabe. Deine Kontrolle.</text>
+<path d="M42 318H743" stroke="#31434b"/>
+<g class="motion"><rect x="42" y="316" width="48" height="4" fill="#91f4d1"><animate attributeName="x" values="42;695;42" dur="12s" repeatCount="indefinite"/></rect></g>
+<text x="42" y="355" font-size="15" fill="#91f4d1" class="mono">01  ZUSTIMMUNG</text>
+<text x="279" y="355" font-size="15" fill="#b5c9c9" class="mono">02  VERBINDUNG</text>
+<text x="518" y="355" font-size="15" fill="#b5c9c9" class="mono">03  KONTROLLE</text>
+<text x="42" y="408" font-size="14" fill="#83989f" >Desktop-Software · Internationale Edition</text>
+<path d="M791 42V398" stroke="#354950"/>
+<text x="823" y="54" font-size="13" fill="#91f4d1" class="mono" letter-spacing=".6">TECHNOLOGIE IM HINTERGRUND</text>
+<rect x="824" y="81" width="40" height="40" fill="#10282c" stroke="#3a5c60"/>
+<text x="844" y="107" font-size="16" fill="#91f4d1" class="mono" text-anchor="middle">JS</text>
+<text x="880" y="98" font-size="18" fill="#e1e9e6" font-weight="600">JavaScript / Node.js</text>
+<text x="880" y="117" font-size="10" fill="#91a6ad" class="mono" letter-spacing=".8">SERVER + OBERFLÄCHE</text>
+<rect x="824" y="144" width="40" height="40" fill="#10282c" stroke="#3a5c60"/>
+<text x="844" y="170" font-size="16" fill="#91f4d1" class="mono" text-anchor="middle">RS</text>
+<text x="880" y="161" font-size="18" fill="#e1e9e6" font-weight="600">Rust / Tauri</text>
+<text x="880" y="180" font-size="10" fill="#91a6ad" class="mono" letter-spacing=".8">DESKTOP-SHELL</text>
+<rect x="824" y="207" width="40" height="40" fill="#10282c" stroke="#3a5c60"/>
+<text x="844" y="233" font-size="16" fill="#91f4d1" class="mono" text-anchor="middle">KT</text>
+<text x="880" y="224" font-size="18" fill="#e1e9e6" font-weight="600">Kotlin</text>
+<text x="880" y="243" font-size="10" fill="#91a6ad" class="mono" letter-spacing=".8">ANDROID-CLIENT</text>
+<rect x="824" y="270" width="40" height="40" fill="#10282c" stroke="#3a5c60"/>
+<text x="844" y="296" font-size="16" fill="#91f4d1" class="mono" text-anchor="middle">PS</text>
+<text x="880" y="287" font-size="18" fill="#e1e9e6" font-weight="600">PowerShell</text>
+<text x="880" y="306" font-size="10" fill="#91a6ad" class="mono" letter-spacing=".8">WINDOWS-BRÜCKE</text>
+<rect x="824" y="333" width="40" height="40" fill="#10282c" stroke="#3a5c60"/>
+<text x="844" y="359" font-size="16" fill="#91f4d1" class="mono" text-anchor="middle">&lt;&gt;</text>
+<text x="880" y="350" font-size="18" fill="#e1e9e6" font-weight="600">HTML / CSS</text>
+<text x="880" y="369" font-size="10" fill="#91a6ad" class="mono" letter-spacing=".8">VISUELLE EBENE</text>
+</svg>

@@ -1,4 +1,4 @@
-# Sabreza View International — Fernzugriff mit ausdrücklicher Zustimmung
+<p align="center"><img src="docs/title.de.svg" width="1200" alt="Sabreza View International — JavaScript, Rust, Kotlin, PowerShell, HTML / CSS"></p>
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
@@ -21,7 +21,7 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** Die APK bleibt der ver?ffentlichte, unver?nderte und pr?fsummenverifizierte Smartphone-Client aus v0.3.8; sie wurde nicht als v0.3.9 neu gebaut.
+**Android:** Die APK bleibt der veröffentlichte, unveränderte und prüfsummenverifizierte Smartphone-Client aus v0.3.8; sie wurde nicht als v0.3.9 neu gebaut.
 
 [Versionen](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256-Prüfsummen](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
@@ -29,7 +29,7 @@ Der angezeigte Produktname kann **sabreza-view-lab** sein. Diese Version verwend
 
 ## Installation und Zustimmung
 
-1. Laden Sie das passende Paket herunter und vergleichen Sie SHA-256 mit `SHA256https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt.txt`.
+1. Laden Sie das passende Paket herunter und vergleichen Sie SHA-256 mit [SHA256SUMS.txt](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt).
 2. Installieren und öffnen Sie die App. Lesen Sie Betreibername, Zugriffsrechte und die Anleitung zum Trennen.
 3. Wählen Sie bewusst **Akzeptieren** oder **Ablehnen**. Für diese Registrierung benötigen Sie keinen Beitrittsschlüssel, keine Kopplungs-PIN und kein Tailscale- oder Cloudflare-Konto.
 4. Nach Zustimmung und erfolgreicher Verbindung erscheint der Computer in der Zentrale. Beide Computer benötigen Internet; die Zentrale muss laufen. Bei einem Fehler versuchen Sie es erneut, sobald die Verbindung wieder funktioniert.
@@ -42,6 +42,23 @@ Das Verbindungsprogramm ist enthalten und wird beim Build anhand einer Prüfsumm
 Kein gemeinsamer geheimer Beitrittsschlüssel der Zentrale wird im Installer verteilt. Jedes Gerät erzeugt eigene Zugangsdaten automatisch. Technische Schlüssel ersetzen keine ausdrückliche Zustimmung. Geben Sie keine Geräteschlüssel, Kontopasswörter oder persönlichen Konfigurationsdateien weiter.
 
 Ältere Installationen werden nicht heimlich registriert oder migriert. Eine neue Zentrale oder Adresse kann aktualisierte Client-Einstellungen erfordern. Die Zustimmung in der App ersetzt keine Betriebssystemberechtigungen.
+
+
+## So funktioniert die Verbindung
+
+![Du entscheidest über den Zugriff.](docs/how-it-works.de.svg)
+
+Keine Betreiber-Registrierung ohne Zustimmung. Trennen ist jederzeit möglich.
+
+## Verwendete Technologien
+
+| Ebene | Technologie |
+|---|---|
+| Server / Weboberfläche | JavaScript · Node.js · HTML · CSS |
+| Desktop | Rust · Tauri |
+| Android | Kotlin |
+| Windows-Integration | PowerShell |
+| Verbindung | Cloudflare Tunnel · Tailscale Funnel · HTTPS |
 
 ## Andere Betriebsarten
 
