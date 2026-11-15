@@ -46,3 +46,12 @@ Existing older installations are not silently enrolled or migrated. Replacing th
 ## Other usage modes
 
 The previous personal-use guide is retained as [MANUAL-MODE.md](MANUAL-MODE.md). Its Tailscale-only networking, manual pairing, and PIN instructions describe that separate mode; they are not guarantees about the operator-managed downloads above.
+
+## Source code access
+
+If you would like access to the source code of this application, please contact me using the details below.
+
+- Phone: [+49 15253371943](tel:+4915253371943)
+- Email: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
+This project is licensed under CC BY-NC-ND 4.0. See [LICENSE](LICENSE).

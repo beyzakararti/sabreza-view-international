@@ -10,7 +10,18 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 
 **Bei Ablehnung erfolgt keine Registrierung beim Betreiber. Über „Verbindung trennen“ auf der Zustimmungsseite können Sie jederzeit widerrufen.** Der Hinweis am Infobereich-Symbol zeigt die Überwachung an. Beim Trennen wird der Zugriffsschlüssel lokal widerrufen, auch wenn die Zentrale nicht erreichbar ist.
 
+<<<<<<< HEAD
 ## Download
+=======
+## Zugang zum Quellcode
+
+Wenn Sie Zugang zum Quellcode dieser Anwendung wünschen, kontaktieren Sie mich bitte über die folgenden Kontaktdaten.
+
+- Telefon: [+49 15253371943](tel:+4915253371943)
+- E-Mail: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
+## Inhalt
+>>>>>>> origin/main
 
 | Platform | Download |
 |---|---|

@@ -10,7 +10,18 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 
 **Reddederseniz operatöre kayıt yapılmaz. Onay sayfasındaki “Bağlantıyı kes” ile istediğiniz zaman vazgeçebilirsiniz.** İzleme durumu sistem tepsisi simgesinin açıklamasında gösterilir. Bağlantıyı kesince merkez ulaşılamıyor olsa bile operatörün erişim anahtarı bilgisayarınızda iptal edilir.
 
+<<<<<<< HEAD
 ## İndir
+=======
+## Kaynak koda erişim
+
+Geliştirilen programın kaynak kodlarına erişmek isterseniz aşağıdaki iletişim bilgileri üzerinden benimle iletişime geçebilirsiniz.
+
+- Telefon: [+49 15253371943](tel:+4915253371943)
+- E-posta: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
+## İçindekiler
+>>>>>>> origin/main
 
 | Platform | Download |
 |---|---|
