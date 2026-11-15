@@ -10,18 +10,7 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 
 **Bei Ablehnung erfolgt keine Registrierung beim Betreiber. Über „Verbindung trennen“ auf der Zustimmungsseite können Sie jederzeit widerrufen.** Der Hinweis am Infobereich-Symbol zeigt die Überwachung an. Beim Trennen wird der Zugriffsschlüssel lokal widerrufen, auch wenn die Zentrale nicht erreichbar ist.
 
-<<<<<<< HEAD
 ## Download
-=======
-## Zugang zum Quellcode
-
-Wenn Sie Zugang zum Quellcode dieser Anwendung wünschen, kontaktieren Sie mich bitte über die folgenden Kontaktdaten.
-
-- Telefon: [+49 15253371943](tel:+4915253371943)
-- E-Mail: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
-
-## Inhalt
->>>>>>> origin/main
 
 | Platform | Download |
 |---|---|
@@ -57,3 +46,12 @@ Kein gemeinsamer geheimer Beitrittsschlüssel der Zentrale wird im Installer ver
 ## Andere Betriebsarten
 
 Die bisherige Anleitung für persönliche Nutzung bleibt unter [MANUAL-MODE.de.md](MANUAL-MODE.de.md) erhalten. Ihre Angaben zu privatem Tailscale-Netz, manueller Kopplung und PIN beschreiben diesen separaten Modus und gelten nicht als Zusicherung für die oben angebotenen betreiberverwalteten Downloads.
+
+## Zugang zum Quellcode
+
+Wenn Sie Zugang zum Quellcode dieser Anwendung wünschen, kontaktieren Sie mich bitte über die folgenden Kontaktdaten.
+
+- Telefon: [+49 15253371943](tel:+4915253371943)
+- E-Mail: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
+This project is licensed under CC BY-NC-ND 4.0. See [LICENSE](LICENSE).

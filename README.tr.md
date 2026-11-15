@@ -10,18 +10,7 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 
 **Reddederseniz operatöre kayıt yapılmaz. Onay sayfasındaki “Bağlantıyı kes” ile istediğiniz zaman vazgeçebilirsiniz.** İzleme durumu sistem tepsisi simgesinin açıklamasında gösterilir. Bağlantıyı kesince merkez ulaşılamıyor olsa bile operatörün erişim anahtarı bilgisayarınızda iptal edilir.
 
-<<<<<<< HEAD
 ## İndir
-=======
-## Kaynak koda erişim
-
-Geliştirilen programın kaynak kodlarına erişmek isterseniz aşağıdaki iletişim bilgileri üzerinden benimle iletişime geçebilirsiniz.
-
-- Telefon: [+49 15253371943](tel:+4915253371943)
-- E-posta: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
-
-## İçindekiler
->>>>>>> origin/main
 
 | Platform | Download |
 |---|---|
@@ -57,3 +46,12 @@ Eski kurulumlar sessizce merkeze eklenmez veya taşınmaz. Merkezin ya da adresi
 ## Diğer kullanım biçimleri
 
 Önceki kişisel kullanım rehberi [MANUAL-MODE.tr.md](MANUAL-MODE.tr.md) dosyasında korunur. Oradaki yalnızca Tailscale ağı, elle eşleştirme ve PIN talimatları ayrı kullanım biçimini anlatır; yukarıdaki operatör yönetimli indirmeler için geçerli güvence değildir.
+
+## Kaynak koda erişim
+
+Geliştirilen programın kaynak kodlarına erişmek isterseniz aşağıdaki iletişim bilgileri üzerinden benimle iletişime geçebilirsiniz.
+
+- Telefon: [+49 15253371943](tel:+4915253371943)
+- E-posta: [beyza.kararti@outlook.com](mailto:beyza.kararti@outlook.com)
+
+This project is licensed under CC BY-NC-ND 4.0. See [LICENSE](LICENSE).
