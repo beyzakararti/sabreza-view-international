@@ -1,14 +1,6 @@
-# Sabreza View International — consent-based remote access
+# Sabreza View International
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
-
-## Read before downloading
-
-**The v0.3.9 desktop installers connect to the operator “beyzakararti — Kararti is Watching” only after your explicit remote-access consent.** This is a change from the older personal-use downloads. Downloading, installing, or previously accepting general terms is not remote-access consent.
-
-If you accept the in-app disclosure, the operator can view and record your screen, control your mouse and keyboard, access files, run terminal commands, and view system information within the application's capabilities. Access can continue while the application is running until you disconnect. Accept only if you own or are authorized to manage the computer and want this operator to have access.
-
-**Declining creates no operator registration. You can withdraw consent at any time using “Disconnect” on the consent page.** The system-tray tooltip indicates monitoring. The operator's controller credential is revoked locally when you disconnect, even if the center is unreachable.
 
 ## Download
 
