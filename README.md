@@ -2,6 +2,10 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
+## What is new in v0.3.10
+
+Blue-gray colors, clearer keyboard focus, larger touch controls and reduced-motion support. The PC server must be updated for iPhone clients to receive the new interface. These international installers are separate from personal installations.
+
 ## Download
 
 | Platform | Download |
@@ -13,7 +17,7 @@
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** the APK remains the published v0.3.8 phone client, unchanged and checksum-verified; it is not a newly built v0.3.9 APK.
+**Android:** the APK remains the published v0.3.8 phone client, unchanged and checksum-verified; it is not a newly built v0.3.10 APK.
 
 [Release history](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 checksums](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 

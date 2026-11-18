@@ -2,9 +2,13 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
+## v0.3.10 yenilikleri
+
+Mavi-gri renkler, daha belirgin klavye odağı, daha büyük dokunma alanları ve azaltılmış hareket desteği. iPhone arayüzünün güncellenmesi için bağlı PC sunucusu güncellenmelidir. Bu international kurulumları personal kurulumundan ayrıdır.
+
 ## İndirmeden önce okuyun
 
-**v0.3.9 masaüstü kurulumları, yalnızca açık uzaktan erişim onayınızdan sonra “beyzakararti — Kararti is Watching” operatörünün merkezine bağlanır.** Bu davranış eski kişisel kullanım sürümlerinden farklıdır. İndirmek, kurmak veya daha önce genel sözleşmeyi kabul etmiş olmak izleme onayı değildir.
+**v0.3.10 masaüstü kurulumları, yalnızca açık uzaktan erişim onayınızdan sonra “beyzakararti — Kararti is Watching” operatörünün merkezine bağlanır.** Bu davranış eski kişisel kullanım sürümlerinden farklıdır. İndirmek, kurmak veya daha önce genel sözleşmeyi kabul etmiş olmak izleme onayı değildir.
 
 Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği ölçüde ekranınızı görebilir/kaydedebilir, fare ve klavyenizi kontrol edebilir, dosyalara erişebilir, terminal komutları çalıştırabilir ve sistem bilgilerini görebilir. Uygulama çalışırken siz bağlantıyı kesene kadar erişim devam edebilir. Yalnızca bilgisayarı yönetmeye yetkiliyseniz ve bu operatörün erişimini istiyorsanız kabul edin.
 
@@ -21,7 +25,7 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** APK, yayımlanmış v0.3.8 telefon istemcisinin değişmemiş ve özeti doğrulanmış kopyasıdır; yeni derlenmiş v0.3.9 APK'sı değildir.
+**Android:** APK, yayımlanmış v0.3.8 telefon istemcisinin değişmemiş ve özeti doğrulanmış kopyasıdır; yeni derlenmiş v0.3.10 APK'sı değildir.
 
 [Sürüm geçmişi](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 özetleri](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 

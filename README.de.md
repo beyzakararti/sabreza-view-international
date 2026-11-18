@@ -2,9 +2,13 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
+## Neu in v0.3.10
+
+Blau-graue Farben, deutlicher Tastaturfokus, größere Touch-Schaltflächen und reduzierte Bewegung. Für die neue iPhone-Oberfläche muss der verbundene PC-Server aktualisiert werden. Diese internationalen Installer sind von persönlichen Installationen getrennt.
+
 ## Vor dem Download lesen
 
-**Die Desktop-Installer v0.3.9 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
+**Die Desktop-Installer v0.3.10 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
 
 Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der unterstützten Funktionen Ihren Bildschirm sehen und aufzeichnen, Maus und Tastatur steuern, auf Dateien zugreifen, Terminalbefehle ausführen und Systeminformationen einsehen. Während die Anwendung läuft, kann der Zugriff bis zum Trennen bestehen bleiben. Stimmen Sie nur zu, wenn Sie den Computer verwalten dürfen und diesen Zugriff wünschen.
 
@@ -21,7 +25,7 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** Die APK bleibt der veröffentlichte, unveränderte und prüfsummenverifizierte Smartphone-Client aus v0.3.8; sie wurde nicht als v0.3.9 neu gebaut.
+**Android:** Die APK bleibt der veröffentlichte, unveränderte und prüfsummenverifizierte Smartphone-Client aus v0.3.8; sie wurde nicht als v0.3.10 neu gebaut.
 
 [Versionen](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256-Prüfsummen](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
