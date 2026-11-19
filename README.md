@@ -21,7 +21,7 @@ Blue-gray colors, clearer keyboard focus, larger touch controls and reduced-moti
 
 [Release history](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 checksums](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
-The installer may display the product name **sabreza-view-lab**. This release uses a separate application identity from the old personal installation; it does not inherit its consent or pairing. Windows is the primary desktop target. macOS builds are experimental and require macOS Screen Recording / Accessibility permissions. **Linux does not support screen sharing. Android is a phone client, not a phone-monitoring installer.**
+**Sabreza View International** is the distribution for end users. It does not inherit consent or pairing from the personal installation. Windows is the primary desktop target. macOS builds are experimental and require macOS Screen Recording / Accessibility permissions. **Linux does not support screen sharing. Android is a phone client, not a phone-monitoring installer.**
 
 ## Install and consent
 

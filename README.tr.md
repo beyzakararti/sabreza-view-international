@@ -29,7 +29,7 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 
 [Sürüm geçmişi](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 özetleri](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
-Kurulumda ürün adı **sabreza-view-lab** görünebilir. Bu sürüm eski kişisel kurulumdan ayrı uygulama kimliği kullanır; onun onayını veya eşleşmesini devralmaz. Windows ana masaüstü hedeftir. macOS deneyseldir; macOS'un Ekran Kaydı / Erişilebilirlik izinleri ayrıca gerekir. **Linux'ta ekran paylaşımı yoktur. Android telefon istemcisidir; telefon izleme kurucusu değildir.**
+**Sabreza View International**, kullanıcılar için dağıtılan sürümdür. Kişisel kurulumun onayını veya eşleşmesini devralmaz. Windows ana masaüstü hedeftir. macOS deneyseldir; macOS'un Ekran Kaydı / Erişilebilirlik izinleri ayrıca gerekir. **Linux'ta ekran paylaşımı yoktur. Android telefon istemcisidir; telefon izleme kurucusu değildir.**
 
 ## Kurulum ve onay
 
