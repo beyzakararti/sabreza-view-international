@@ -39,6 +39,28 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 4. Nach Zustimmung und erfolgreicher Verbindung erscheint der Computer in der Zentrale. Beide Computer benötigen Internet; die Zentrale muss laufen. Bei einem Fehler versuchen Sie es erneut, sobald die Verbindung wieder funktioniert.
 5. Öffnen Sie zum Beenden die Zustimmungsseite auf dem installierten Computer (`http://127.0.0.1:7377/consent`) und wählen Sie **Verbindung trennen**. Nur das Fenster zu schließen widerruft die Zustimmung nicht.
 
+## Einrichtung in Bildern
+
+Die Bilder zeigen die tatsächliche Oberfläche von v0.3.11 mit Beispieldaten. Abgebildet sind die Bildschirme nach dem Öffnen der Anwendung, nicht die Installationsfenster des Betriebssystems.
+
+### 1. Den Zugriffsumfang lesen
+
+Prüfen Sie beim Öffnen die Betreiberangaben, den Zugriffsumfang und den Zustimmungstext. Das Kontrollkästchen ist anfangs nicht aktiviert.
+
+<img src="docs/screenshots/de-consent.png" width="680" alt="1. Den Zugriffsumfang lesen">
+
+### 2. Ihre Entscheidung treffen
+
+Aktivieren Sie nach dem Lesen bis zum Textende das Kästchen und stimmen Sie nur zu, wenn Sie den beschriebenen Zugriff wünschen. Sie können auch ablehnen. Das markierte Kästchen im Bild zeigt eine beispielhafte Benutzerentscheidung.
+
+<img src="docs/screenshots/de-consent-ready.png" width="680" alt="2. Ihre Entscheidung treffen">
+
+### 3. Verbindung prüfen und bei Bedarf trennen
+
+Nach erfolgreicher Verbindung erscheint die Statusanzeige. Über die Schaltfläche zum Trennen können Sie den Zugriff beenden.
+
+<img src="docs/screenshots/de-connected.png" width="680" alt="3. Verbindung prüfen und bei Bedarf trennen">
+
 ## Verbindung und Datenschutz
 
 Das Verbindungsprogramm ist enthalten und wird beim Build anhand einer Prüfsumme kontrolliert. Desktop-Verkehr läuft über einen ausgehenden Cloudflare Tunnel; die Registrierung erreicht das Tailscale-Funnel-Gateway des Betreibers. Diese Dienste transportieren den Verbindungsverkehr. Die Verwaltungsoberfläche der Zentrale wird nicht über das Registrierungsgateway veröffentlicht.
@@ -67,6 +89,24 @@ Keine Betreiber-Registrierung ohne Zustimmung. Trennen ist jederzeit möglich.
 ## Andere Betriebsarten
 
 Die bisherige Anleitung für persönliche Nutzung bleibt unter [MANUAL-MODE.de.md](MANUAL-MODE.de.md) erhalten. Ihre Angaben zu privatem Tailscale-Netz, manueller Kopplung und PIN beschreiben diesen separaten Modus und gelten nicht als Zusicherung für die oben angebotenen betreiberverwalteten Downloads.
+
+## PC- und Telefonansicht — persönlicher/manueller Modus
+
+Der folgende Assistent sowie die PIN- und Steuerungsansichten gehören zum separat eingerichteten persönlichen/manuellen Modus. Sie sind keine zusätzlichen Schritte der oben beschriebenen betreiberverwalteten International-Installation. Siehe [Anleitung zum persönlichen/manuellen Modus](MANUAL-MODE.de.md).
+
+Die Telefonbilder verwenden eine mobile Browseransicht mit 390 × 844 Pixeln; sie wurden nicht auf einem physischen iPhone oder Android-Gerät aufgenommen. Gespräche, Dateipfade und Testergebnisse sind Beispiele und enthalten keine persönlichen Daten.
+
+### Einrichtungsassistent: Verbindungsmethode auswählen
+
+<img src="docs/screenshots/de-wizard.png" width="720" alt="Einrichtungsassistent: Verbindungsmethode auswählen">
+
+### PC: eine Beispielsitzung
+
+<img src="docs/screenshots/de-desktop.png" width="960" alt="PC: eine Beispielsitzung">
+
+| Telefon: PIN-Eingabe | Telefon: eine Beispielsitzung |
+|---|---|
+| <img src="docs/screenshots/de-pin.png" width="280" alt="Telefon: PIN-Eingabe"> | <img src="docs/screenshots/de-phone.png" width="280" alt="Telefon: eine Beispielsitzung"> |
 
 ## Zugang zum Quellcode
 

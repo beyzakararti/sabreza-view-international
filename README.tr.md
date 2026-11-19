@@ -39,6 +39,28 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 4. Onaydan ve başarılı bağlantıdan sonra bilgisayar operatörün merkezinde görünür. İki bilgisayar internete bağlı, merkez çalışır durumda olmalıdır. Kayıt başarısızsa hata gösterilir; bağlantı düzeldikten sonra yeniden deneyin.
 5. Durdurmak için kurulu bilgisayarda onay sayfasını (`http://127.0.0.1:7377/consent`) açıp **Bağlantıyı kes** seçin. Yalnızca pencereyi kapatmak onayı geri çekmek değildir.
 
+## Görsellerle kurulum
+
+Görseller v0.3.11 uygulamasının gerçek arayüzünden, örnek verilerle hazırlanmıştır. İşletim sisteminin yükleyici pencerelerini değil, uygulama açıldıktan sonraki ekranları gösterir.
+
+### 1. Erişim kapsamını okuyun
+
+Uygulamayı açınca operatör bilgisi, erişim kapsamı ve onay metni görünür. Metni inceleyin; onay kutusu başlangıçta seçili değildir.
+
+<img src="docs/screenshots/tr-consent.png" width="680" alt="1. Erişim kapsamını okuyun">
+
+### 2. Kararınızı verin
+
+Metnin sonuna ulaştıktan sonra yalnızca açıklanan erişimi istiyorsanız kutuyu işaretleyip onaylayın. İstemiyorsanız reddedebilirsiniz. Görseldeki işaretli kutu örnek bir kullanıcı seçimini gösterir.
+
+<img src="docs/screenshots/tr-consent-ready.png" width="680" alt="2. Kararınızı verin">
+
+### 3. Bağlantıyı görün ve gerektiğinde kesin
+
+Başarılı bağlantı sonrasında durum ekranı görünür. Erişimi sonlandırmak için bu ekrandaki bağlantıyı kesme düğmesini kullanın.
+
+<img src="docs/screenshots/tr-connected.png" width="680" alt="3. Bağlantıyı görün ve gerektiğinde kesin">
+
 ## Bağlantı ve gizlilik
 
 Bağlantı aracı pakete dahildir ve derlemede özeti doğrulanır. Masaüstü bağlantısı dışarı doğru açılan Cloudflare Tunnel üzerinden, merkez kaydı Tailscale Funnel geçidi üzerinden ilerler. Bu hizmetler bağlantı trafiğini taşır. Merkezin yönetim ekranı kayıt geçidi üzerinden yayımlanmaz.
@@ -67,6 +89,24 @@ Onaydan önce operatöre kayıt yok. Bağlantıyı istediğin an kesebilirsin.
 ## Diğer kullanım biçimleri
 
 Önceki kişisel kullanım rehberi [MANUAL-MODE.tr.md](MANUAL-MODE.tr.md) dosyasında korunur. Oradaki yalnızca Tailscale ağı, elle eşleştirme ve PIN talimatları ayrı kullanım biçimini anlatır; yukarıdaki operatör yönetimli indirmeler için geçerli güvence değildir.
+
+## PC ve telefon görünümü — kişisel/manual kullanım
+
+Aşağıdaki sihirbaz, PIN ve kontrol ekranları ayrı yapılandırılan kişisel/manual kullanıma aittir. Yukarıdaki operatör yönetimli International kurulumu için ek adımlar değildir. Ayrıntılar: [kişisel/manual kullanım rehberi](MANUAL-MODE.tr.md).
+
+Telefon görselleri 390 × 844 boyutunda mobil tarayıcı görünümüdür; fiziksel iPhone veya Android ekran kaydı değildir. Konuşmalar, dosya yolları ve test sonuçları örnektir; kişisel veriler içermez.
+
+### Kurulum sihirbazı: bağlantı yöntemini seçme
+
+<img src="docs/screenshots/tr-wizard.png" width="720" alt="Kurulum sihirbazı: bağlantı yöntemini seçme">
+
+### PC: örnek bir oturum
+
+<img src="docs/screenshots/tr-desktop.png" width="960" alt="PC: örnek bir oturum">
+
+| Telefon: PIN girişi | Telefon: örnek bir oturum |
+|---|---|
+| <img src="docs/screenshots/tr-pin.png" width="280" alt="Telefon: PIN girişi"> | <img src="docs/screenshots/tr-phone.png" width="280" alt="Telefon: örnek bir oturum"> |
 
 ## Kaynak koda erişim
 

@@ -1,0 +1,154 @@
+{
+  "version": "0.3.11",
+  "source": "ef784ce189f19b1d1e011b8ff3c524df998282e6",
+  "method": "Actual HTML/CSS/JavaScript rendered by Chromium with isolated synthetic API responses. Mobile viewports are emulated, not physical-device captures. No real credentials, devices or conversations.",
+  "images": [
+    {
+      "name": "tr-consent.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 1000,
+      "bodyHeight": 1000
+    },
+    {
+      "name": "tr-consent-ready.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 1000,
+      "bodyHeight": 1000
+    },
+    {
+      "name": "tr-connected.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 650,
+      "bodyHeight": 650
+    },
+    {
+      "name": "tr-wizard.png",
+      "width": 1050,
+      "scrollWidth": 1050,
+      "height": 800,
+      "bodyHeight": 800
+    },
+    {
+      "name": "tr-desktop.png",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 800,
+      "bodyHeight": 800
+    },
+    {
+      "name": "tr-pin.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 844
+    },
+    {
+      "name": "tr-phone.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 844
+    },
+    {
+      "name": "en-consent.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 1000,
+      "bodyHeight": 1000
+    },
+    {
+      "name": "en-consent-ready.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 1000,
+      "bodyHeight": 1000
+    },
+    {
+      "name": "en-connected.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 650,
+      "bodyHeight": 650
+    },
+    {
+      "name": "en-wizard.png",
+      "width": 1050,
+      "scrollWidth": 1050,
+      "height": 800,
+      "bodyHeight": 800
+    },
+    {
+      "name": "en-desktop.png",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 800,
+      "bodyHeight": 800
+    },
+    {
+      "name": "en-pin.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 844
+    },
+    {
+      "name": "en-phone.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 844
+    },
+    {
+      "name": "de-consent.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 1000,
+      "bodyHeight": 1000
+    },
+    {
+      "name": "de-consent-ready.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 1000,
+      "bodyHeight": 1000
+    },
+    {
+      "name": "de-connected.png",
+      "width": 1000,
+      "scrollWidth": 1000,
+      "height": 650,
+      "bodyHeight": 650
+    },
+    {
+      "name": "de-wizard.png",
+      "width": 1050,
+      "scrollWidth": 1050,
+      "height": 800,
+      "bodyHeight": 800
+    },
+    {
+      "name": "de-desktop.png",
+      "width": 1280,
+      "scrollWidth": 1280,
+      "height": 800,
+      "bodyHeight": 800
+    },
+    {
+      "name": "de-pin.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 844
+    },
+    {
+      "name": "de-phone.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 844
+    }
+  ]
+}
