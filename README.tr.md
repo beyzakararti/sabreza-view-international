@@ -2,13 +2,13 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## v0.3.10 yenilikleri
+## v0.3.11 yenilikleri
 
-Mavi-gri renkler, daha belirgin klavye odağı, daha büyük dokunma alanları ve azaltılmış hareket desteği. iPhone arayüzünün güncellenmesi için bağlı PC sunucusu güncellenmelidir. Bu international kurulumları personal kurulumundan ayrıdır.
+Kurulum ve uygulama adı artık Sabreza View International; uygulama kimliği de bu sürüme özel. Telefon ve PC giriş ekranlarında çok dilli telif alt bilgisi bulunur. Önceki sürümlerden ayrı kurulur; kurulum ve erişim onayını yeniden tamamlayın. [Sürüm ayrıntıları](docs/release-v0.3.11.md).
 
 ## İndirmeden önce okuyun
 
-**v0.3.10 masaüstü kurulumları, yalnızca açık uzaktan erişim onayınızdan sonra “beyzakararti — Kararti is Watching” operatörünün merkezine bağlanır.** Bu davranış eski kişisel kullanım sürümlerinden farklıdır. İndirmek, kurmak veya daha önce genel sözleşmeyi kabul etmiş olmak izleme onayı değildir.
+**v0.3.11 masaüstü kurulumları, yalnızca açık uzaktan erişim onayınızdan sonra “beyzakararti — Kararti is Watching” operatörünün merkezine bağlanır.** Bu davranış eski kişisel kullanım sürümlerinden farklıdır. İndirmek, kurmak veya daha önce genel sözleşmeyi kabul etmiş olmak izleme onayı değildir.
 
 Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği ölçüde ekranınızı görebilir/kaydedebilir, fare ve klavyenizi kontrol edebilir, dosyalara erişebilir, terminal komutları çalıştırabilir ve sistem bilgilerini görebilir. Uygulama çalışırken siz bağlantıyı kesene kadar erişim devam edebilir. Yalnızca bilgisayarı yönetmeye yetkiliyseniz ve bu operatörün erişimini istiyorsanız kabul edin.
 
@@ -23,9 +23,9 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 | macOS Intel | [Sabreza-View-macOS-Intel.dmg](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-macOS-Intel.dmg) |
 | Linux Debian/Ubuntu | [Sabreza-View-Linux-amd64.deb](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-amd64.deb) |
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
-| Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
+| Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** APK, yayımlanmış v0.3.8 telefon istemcisinin değişmemiş ve özeti doğrulanmış kopyasıdır; yeni derlenmiş v0.3.10 APK'sı değildir.
+**Android:** telefon istemcisi International adı ve uygulama kimliğiyle v0.3.11 olarak yeniden derlendi.
 
 [Sürüm geçmişi](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 özetleri](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
@@ -37,7 +37,7 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 2. Kurup uygulamayı açın. Operatör adını, uzaktan erişim kapsamını ve bağlantıyı kesme açıklamasını okuyun.
 3. İstiyorsanız **Kabul et**, istemiyorsanız **Reddet** seçin. Bu kayıt için katılım anahtarı, eşleştirme PIN'i, Tailscale girişi veya Cloudflare hesabı istenmez.
 4. Onaydan ve başarılı bağlantıdan sonra bilgisayar operatörün merkezinde görünür. İki bilgisayar internete bağlı, merkez çalışır durumda olmalıdır. Kayıt başarısızsa hata gösterilir; bağlantı düzeldikten sonra yeniden deneyin.
-5. Durdurmak için kurulu bilgisayarda onay sayfasını (`http://127.0.0.1:7376/consent`) açıp **Bağlantıyı kes** seçin. Yalnızca pencereyi kapatmak onayı geri çekmek değildir.
+5. Durdurmak için kurulu bilgisayarda onay sayfasını (`http://127.0.0.1:7377/consent`) açıp **Bağlantıyı kes** seçin. Yalnızca pencereyi kapatmak onayı geri çekmek değildir.
 
 ## Bağlantı ve gizlilik
 
@@ -60,7 +60,7 @@ Onaydan önce operatöre kayıt yok. Bağlantıyı istediğin an kesebilirsin.
 |---|---|
 | Sunucu / Web arayüzü | JavaScript · Node.js · HTML · CSS |
 | Masaüstü | Rust · Tauri |
-| Android | Kotlin |
+| Android (ARM64) | Kotlin |
 | Windows entegrasyonu | PowerShell |
 | Bağlantı | Cloudflare Tunnel · Tailscale Funnel · HTTPS |
 

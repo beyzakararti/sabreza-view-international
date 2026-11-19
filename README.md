@@ -2,9 +2,9 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## What is new in v0.3.10
+## What is new in v0.3.11
 
-Blue-gray colors, clearer keyboard focus, larger touch controls and reduced-motion support. The PC server must be updated for iPhone clients to receive the new interface. These international installers are separate from personal installations.
+Sabreza View International now has its own installer/application name and identity. Phone and PC entry screens display a localized copyright notice. This release installs separately from earlier versions; complete setup and consent again. [Release details](docs/release-v0.3.11.md).
 
 ## Download
 
@@ -15,9 +15,9 @@ Blue-gray colors, clearer keyboard focus, larger touch controls and reduced-moti
 | macOS Intel | [Sabreza-View-macOS-Intel.dmg](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-macOS-Intel.dmg) |
 | Linux Debian/Ubuntu | [Sabreza-View-Linux-amd64.deb](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-amd64.deb) |
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
-| Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
+| Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** the APK remains the published v0.3.8 phone client, unchanged and checksum-verified; it is not a newly built v0.3.10 APK.
+**Android:** the phone client is rebuilt as v0.3.11 with the International name and application identity.
 
 [Release history](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 checksums](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
@@ -29,7 +29,7 @@ Blue-gray colors, clearer keyboard focus, larger touch controls and reduced-moti
 2. Install and open the application. Read the operator name, remote-access scope, and disconnect instructions.
 3. Choose **Accept** only if you want the described access, or **Decline**. You do not enter an enrollment key, pairing PIN, Tailscale login, or Cloudflare account for this registration.
 4. After acceptance and successful connection, the computer appears in the operator's center. Both computers need internet access and the center must be running. If enrollment fails, the application displays an error; retry after connectivity is restored.
-5. To stop, open the consent page (`http://127.0.0.1:7376/consent` on the installed computer) and choose **Disconnect**. Closing a window alone is not the same as withdrawing consent.
+5. To stop, open the consent page (`http://127.0.0.1:7377/consent` on the installed computer) and choose **Disconnect**. Closing a window alone is not the same as withdrawing consent.
 
 ## Connection and privacy
 
@@ -52,7 +52,7 @@ No operator registration before consent. You can disconnect at any time.
 |---|---|
 | Server / Web UI | JavaScript · Node.js · HTML · CSS |
 | Desktop | Rust · Tauri |
-| Android | Kotlin |
+| Android (ARM64) | Kotlin |
 | Windows integration | PowerShell |
 | Transport | Cloudflare Tunnel · Tailscale Funnel · HTTPS |
 

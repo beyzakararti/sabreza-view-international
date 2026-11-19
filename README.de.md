@@ -2,13 +2,13 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## Neu in v0.3.10
+## Neu in v0.3.11
 
-Blau-graue Farben, deutlicher Tastaturfokus, größere Touch-Schaltflächen und reduzierte Bewegung. Für die neue iPhone-Oberfläche muss der verbundene PC-Server aktualisiert werden. Diese internationalen Installer sind von persönlichen Installationen getrennt.
+Sabreza View International besitzt jetzt einen eigenen Installer-Namen und eine eigene App-Identität. Smartphone- und PC-Startseiten zeigen einen mehrsprachigen Urheberrechtshinweis. Diese Version wird getrennt von früheren Versionen installiert; Einrichtung und Zustimmung erneut abschließen. [Versionsdetails](docs/release-v0.3.11.md).
 
 ## Vor dem Download lesen
 
-**Die Desktop-Installer v0.3.10 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
+**Die Desktop-Installer v0.3.11 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
 
 Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der unterstützten Funktionen Ihren Bildschirm sehen und aufzeichnen, Maus und Tastatur steuern, auf Dateien zugreifen, Terminalbefehle ausführen und Systeminformationen einsehen. Während die Anwendung läuft, kann der Zugriff bis zum Trennen bestehen bleiben. Stimmen Sie nur zu, wenn Sie den Computer verwalten dürfen und diesen Zugriff wünschen.
 
@@ -23,9 +23,9 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 | macOS Intel | [Sabreza-View-macOS-Intel.dmg](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-macOS-Intel.dmg) |
 | Linux Debian/Ubuntu | [Sabreza-View-Linux-amd64.deb](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-amd64.deb) |
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
-| Android | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
+| Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** Die APK bleibt der veröffentlichte, unveränderte und prüfsummenverifizierte Smartphone-Client aus v0.3.8; sie wurde nicht als v0.3.10 neu gebaut.
+**Android:** Der Smartphone-Client wurde als v0.3.11 mit dem International-Namen und einer eigenen App-Identität neu gebaut.
 
 [Versionen](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256-Prüfsummen](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
@@ -37,7 +37,7 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 2. Installieren und öffnen Sie die App. Lesen Sie Betreibername, Zugriffsrechte und die Anleitung zum Trennen.
 3. Wählen Sie bewusst **Akzeptieren** oder **Ablehnen**. Für diese Registrierung benötigen Sie keinen Beitrittsschlüssel, keine Kopplungs-PIN und kein Tailscale- oder Cloudflare-Konto.
 4. Nach Zustimmung und erfolgreicher Verbindung erscheint der Computer in der Zentrale. Beide Computer benötigen Internet; die Zentrale muss laufen. Bei einem Fehler versuchen Sie es erneut, sobald die Verbindung wieder funktioniert.
-5. Öffnen Sie zum Beenden die Zustimmungsseite auf dem installierten Computer (`http://127.0.0.1:7376/consent`) und wählen Sie **Verbindung trennen**. Nur das Fenster zu schließen widerruft die Zustimmung nicht.
+5. Öffnen Sie zum Beenden die Zustimmungsseite auf dem installierten Computer (`http://127.0.0.1:7377/consent`) und wählen Sie **Verbindung trennen**. Nur das Fenster zu schließen widerruft die Zustimmung nicht.
 
 ## Verbindung und Datenschutz
 
@@ -60,7 +60,7 @@ Keine Betreiber-Registrierung ohne Zustimmung. Trennen ist jederzeit möglich.
 |---|---|
 | Server / Weboberfläche | JavaScript · Node.js · HTML · CSS |
 | Desktop | Rust · Tauri |
-| Android | Kotlin |
+| Android (ARM64) | Kotlin |
 | Windows-Integration | PowerShell |
 | Verbindung | Cloudflare Tunnel · Tailscale Funnel · HTTPS |
 
