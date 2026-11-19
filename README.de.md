@@ -2,13 +2,13 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## Neu in v0.3.11
+## Neu in v0.3.12
 
-Sabreza View International besitzt jetzt einen eigenen Installer-Namen und eine eigene App-Identität. Smartphone- und PC-Startseiten zeigen einen mehrsprachigen Urheberrechtshinweis. Diese Version wird getrennt von früheren Versionen installiert; Einrichtung und Zustimmung erneut abschließen. [Versionsdetails](docs/release-v0.3.11.md).
+Die Vereinbarung erscheint nun als datiertes weißes Dokument im A4-Stil mit 13 nummerierten Abschnitten, ausführlichen Betreiber-/Nutzerpflichten und einer Druck-/PDF-Option. Der sichtbare Urheberrechtshinweis nennt nur Beyza KARARTI. Ausdrückliche Zustimmung, Ablehnung und Trennung bleiben verfügbar. [Versionsdetails](docs/release-v0.3.12.md).
 
 ## Vor dem Download lesen
 
-**Die Desktop-Installer v0.3.11 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
+**Die Desktop-Installer v0.3.12 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
 
 Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der unterstützten Funktionen Ihren Bildschirm sehen und aufzeichnen, Maus und Tastatur steuern, auf Dateien zugreifen, Terminalbefehle ausführen und Systeminformationen einsehen. Während die Anwendung läuft, kann der Zugriff bis zum Trennen bestehen bleiben. Stimmen Sie nur zu, wenn Sie den Computer verwalten dürfen und diesen Zugriff wünschen.
 
@@ -25,7 +25,7 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** Der Smartphone-Client wurde als v0.3.11 mit dem International-Namen und einer eigenen App-Identität neu gebaut.
+**Android:** Der Smartphone-Client wurde als v0.3.12 mit dem International-Namen und einer eigenen App-Identität neu gebaut.
 
 [Versionen](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256-Prüfsummen](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
@@ -41,13 +41,22 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 
 ## Einrichtung in Bildern
 
-Die Bilder zeigen die tatsächliche Oberfläche von v0.3.11 mit Beispieldaten. Abgebildet sind die Bildschirme nach dem Öffnen der Anwendung, nicht die Installationsfenster des Betriebssystems.
+Die Bilder zeigen die tatsächliche Oberfläche von v0.3.12 mit Beispieldaten. Abgebildet sind die Bildschirme nach dem Öffnen der Anwendung, nicht die Installationsfenster des Betriebssystems.
 
 ### 1. Den Zugriffsumfang lesen
 
 Prüfen Sie beim Öffnen die Betreiberangaben, den Zugriffsumfang und den Zustimmungstext. Das Kontrollkästchen ist anfangs nicht aktiviert.
 
 <img src="docs/screenshots/de-consent.png" width="680" alt="1. Den Zugriffsumfang lesen">
+
+<details>
+<summary>Mobile Ansicht der Vereinbarung im A4-Stil</summary>
+
+Die Vereinbarung passt sich dem mobilen Browser an. Unten ist die gesamte Seite abgebildet; zum Lesen aller Abschnitte innerhalb des weißen Dokuments scrollen.
+
+<img src="docs/screenshots/de-consent-mobile.png" width="320" alt="Mobile Ansicht der Vereinbarung im A4-Stil">
+
+</details>
 
 ### 2. Ihre Entscheidung treffen
 

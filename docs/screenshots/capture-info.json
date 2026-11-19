@@ -1,21 +1,28 @@
 {
-  "version": "0.3.11",
-  "source": "ef784ce189f19b1d1e011b8ff3c524df998282e6",
-  "method": "Actual HTML/CSS/JavaScript rendered by Chromium with isolated synthetic API responses. Mobile viewports are emulated, not physical-device captures. No real credentials, devices or conversations.",
+  "version": "0.3.12",
+  "source": "20fe6ee5aec9864b92e9a156d7c37789fccd0010",
+  "method": "Actual HTML/CSS/JavaScript rendered by Chromium with isolated synthetic API responses. Mobile viewports are emulated, not physical-device captures. Full page height is captured when the page is taller than the viewport. No real credentials, devices or conversations.",
   "images": [
     {
       "name": "tr-consent.png",
       "width": 1000,
-      "scrollWidth": 1000,
+      "scrollWidth": 985,
       "height": 1000,
-      "bodyHeight": 1000
+      "bodyHeight": 1163
     },
     {
       "name": "tr-consent-ready.png",
       "width": 1000,
-      "scrollWidth": 1000,
+      "scrollWidth": 985,
       "height": 1000,
-      "bodyHeight": 1000
+      "bodyHeight": 1133
+    },
+    {
+      "name": "tr-consent-mobile.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 1093
     },
     {
       "name": "tr-connected.png",
@@ -55,16 +62,23 @@
     {
       "name": "en-consent.png",
       "width": 1000,
-      "scrollWidth": 1000,
+      "scrollWidth": 985,
       "height": 1000,
-      "bodyHeight": 1000
+      "bodyHeight": 1163
     },
     {
       "name": "en-consent-ready.png",
       "width": 1000,
-      "scrollWidth": 1000,
+      "scrollWidth": 985,
       "height": 1000,
-      "bodyHeight": 1000
+      "bodyHeight": 1133
+    },
+    {
+      "name": "en-consent-mobile.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 1108
     },
     {
       "name": "en-connected.png",
@@ -104,16 +118,23 @@
     {
       "name": "de-consent.png",
       "width": 1000,
-      "scrollWidth": 1000,
+      "scrollWidth": 985,
       "height": 1000,
-      "bodyHeight": 1000
+      "bodyHeight": 1163
     },
     {
       "name": "de-consent-ready.png",
       "width": 1000,
-      "scrollWidth": 1000,
+      "scrollWidth": 985,
       "height": 1000,
-      "bodyHeight": 1000
+      "bodyHeight": 1133
+    },
+    {
+      "name": "de-consent-mobile.png",
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 844,
+      "bodyHeight": 1142
     },
     {
       "name": "de-connected.png",

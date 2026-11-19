@@ -2,9 +2,9 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## What is new in v0.3.11
+## What is new in v0.3.12
 
-Sabreza View International now has its own installer/application name and identity. Phone and PC entry screens display a localized copyright notice. This release installs separately from earlier versions; complete setup and consent again. [Release details](docs/release-v0.3.11.md).
+The agreement is now a dated white A4-style document with 13 numbered sections, detailed operator/user obligations and a print / save as PDF option. Displayed copyright attribution names only Beyza KARARTI. Explicit consent, refusal and disconnection remain available. [Release details](docs/release-v0.3.12.md).
 
 ## Download
 
@@ -17,7 +17,7 @@ Sabreza View International now has its own installer/application name and identi
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** the phone client is rebuilt as v0.3.11 with the International name and application identity.
+**Android:** the phone client is rebuilt as v0.3.12 with the International name and application identity.
 
 [Release history](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 checksums](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
@@ -33,13 +33,22 @@ Sabreza View International now has its own installer/application name and identi
 
 ## Setup in pictures
 
-These screenshots show the actual v0.3.11 application UI with sample data. They show the screens after opening the application, rather than the operating system installer windows.
+These screenshots show the actual v0.3.12 application UI with sample data. They show the screens after opening the application, rather than the operating system installer windows.
 
 ### 1. Read the access scope
 
 On opening the application, review the operator information, access scope and consent text. The checkbox is initially unchecked.
 
 <img src="docs/screenshots/en-consent.png" width="680" alt="1. Read the access scope">
+
+<details>
+<summary>Mobile view of the A4-style agreement</summary>
+
+The agreement adapts to a phone browser. The full page is shown below; scroll inside the white document to read all sections.
+
+<img src="docs/screenshots/en-consent-mobile.png" width="320" alt="Mobile view of the A4-style agreement">
+
+</details>
 
 ### 2. Make your choice
 
