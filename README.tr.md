@@ -2,13 +2,18 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## v0.3.12 yenilikleri
+## v0.3.13 yenilikleri
 
-Sözleşme artık tarihli, beyaz A4 belge görünümünde: 13 numaralı bölüm, ayrıntılı operatör/kullanıcı yükümlülükleri ve yazdırma / PDF seçeneği eklendi. Arayüz telif bilgisinde yalnızca Beyza KARARTI adı gösterilir. Açık onay, reddetme ve bağlantıyı kesme seçenekleri korunur. [Sürüm ayrıntıları](docs/release-v0.3.12.md).
+- Ekran ve filo kontrolüne hızlı **Tab** ve **Enter** tuşları eklendi. Yatay tam ekranda soldaki tuşlar sağdaki araç çubuğundan ince bir şeride daraltılabilir.
+- PC tarzı sanal klavye Türkçe Q, İngilizce QWERTY ve Almanca QWERTZ düzenlerini; işlev ve gezinme tuşlarını içerir.
+- Telefona Bluetooth veya USB ile önceden eşleştirilmiş klavye ve fare PC kontrolünde kullanılabilir. Panel yalnızca tarayıcının gördüğü girişleri gösterir ve PC kontrolünü kapatabilir. Fiziksel eşleştirme ve bağlantıyı kesme telefon ayarlarındadır; panel tam cihaz listesi değildir.
+- Telefonun dosya seçicisinde USB bellek görünüyorsa **Dosyalar → Yükle** ile seçilen dosyalar açık PC klasörüne aktarılabilir.
+
+[v0.3.13 sürüm ayrıntıları](docs/release-v0.3.13.md) · [v0.3.12 sözleşme güncellemesi](docs/release-v0.3.12.md). Açık onay, reddetme ve bağlantıyı kesme seçenekleri korunur.
 
 ## İndirmeden önce okuyun
 
-**v0.3.12 masaüstü kurulumları, yalnızca açık uzaktan erişim onayınızdan sonra “beyzakararti — Kararti is Watching” operatörünün merkezine bağlanır.** Bu davranış eski kişisel kullanım sürümlerinden farklıdır. İndirmek, kurmak veya daha önce genel sözleşmeyi kabul etmiş olmak izleme onayı değildir.
+**v0.3.13 masaüstü kurulumları, yalnızca açık uzaktan erişim onayınızdan sonra “beyzakararti — Kararti is Watching” operatörünün merkezine bağlanır.** Bu davranış eski kişisel kullanım sürümlerinden farklıdır. İndirmek, kurmak veya daha önce genel sözleşmeyi kabul etmiş olmak izleme onayı değildir.
 
 Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği ölçüde ekranınızı görebilir/kaydedebilir, fare ve klavyenizi kontrol edebilir, dosyalara erişebilir, terminal komutları çalıştırabilir ve sistem bilgilerini görebilir. Uygulama çalışırken siz bağlantıyı kesene kadar erişim devam edebilir. Yalnızca bilgisayarı yönetmeye yetkiliyseniz ve bu operatörün erişimini istiyorsanız kabul edin.
 
@@ -25,7 +30,7 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** telefon istemcisi International adı ve uygulama kimliğiyle v0.3.12 olarak yeniden derlendi.
+**Android:** telefon istemcisi International adı ve uygulama kimliğiyle v0.3.13 olarak yeniden derlendi.
 
 [Sürüm geçmişi](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 özetleri](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 

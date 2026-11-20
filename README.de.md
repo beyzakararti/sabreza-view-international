@@ -2,13 +2,18 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## Neu in v0.3.12
+## Neu in v0.3.13
 
-Die Vereinbarung erscheint nun als datiertes weißes Dokument im A4-Stil mit 13 nummerierten Abschnitten, ausführlichen Betreiber-/Nutzerpflichten und einer Druck-/PDF-Option. Der sichtbare Urheberrechtshinweis nennt nur Beyza KARARTI. Ausdrückliche Zustimmung, Ablehnung und Trennung bleiben verfügbar. [Versionsdetails](docs/release-v0.3.12.md).
+- Schnelltasten für **Tab** und **Eingabe** in Bildschirm- und Flottensteuerung; im Querformat lässt sich die linke Tastengruppe über die rechte Werkzeugleiste zu einem schmalen Streifen einklappen.
+- Virtuelle PC-Tastatur mit Türkisch Q, Englisch QWERTY und Deutsch QWERTZ, Funktionstasten und Navigation.
+- Bereits am Telefon über Bluetooth oder USB gekoppelte Tastatur und Maus können den PC bedienen. Die Anzeige zeigt nur Eingaben, die der Browser empfängt, und kann die PC-Steuerung beenden. Kopplung und physische Trennung erfolgen in den Telefoneinstellungen; dies ist keine vollständige Geräteliste.
+- Über **Dateien → Hochladen** lassen sich ausgewählte Dateien von einem USB-Stick in den geöffneten PC-Ordner übertragen, wenn der Stick in der Dateiauswahl des Telefons erscheint.
+
+[Versionsdetails v0.3.13](docs/release-v0.3.13.md) · [Vereinbarung in v0.3.12](docs/release-v0.3.12.md). Ausdrückliche Zustimmung, Ablehnung und Trennung bleiben verfügbar.
 
 ## Vor dem Download lesen
 
-**Die Desktop-Installer v0.3.12 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
+**Die Desktop-Installer v0.3.13 verbinden sich erst nach Ihrer ausdrücklichen Zustimmung zum Fernzugriff mit dem Betreiber „beyzakararti — Kararti is Watching“.** Das unterscheidet sich von älteren Downloads für den persönlichen Gebrauch. Download, Installation oder frühere allgemeine Vertragsannahme sind keine Zustimmung zur Überwachung.
 
 Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der unterstützten Funktionen Ihren Bildschirm sehen und aufzeichnen, Maus und Tastatur steuern, auf Dateien zugreifen, Terminalbefehle ausführen und Systeminformationen einsehen. Während die Anwendung läuft, kann der Zugriff bis zum Trennen bestehen bleiben. Stimmen Sie nur zu, wenn Sie den Computer verwalten dürfen und diesen Zugriff wünschen.
 
@@ -25,7 +30,7 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** Der Smartphone-Client wurde als v0.3.12 mit dem International-Namen und einer eigenen App-Identität neu gebaut.
+**Android:** Der Smartphone-Client wurde als v0.3.13 mit dem International-Namen und einer eigenen App-Identität neu gebaut.
 
 [Versionen](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256-Prüfsummen](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 

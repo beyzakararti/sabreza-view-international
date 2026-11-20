@@ -2,9 +2,14 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
-## What is new in v0.3.12
+## What is new in v0.3.13
 
-The agreement is now a dated white A4-style document with 13 numbered sections, detailed operator/user obligations and a print / save as PDF option. Displayed copyright attribution names only Beyza KARARTI. Explicit consent, refusal and disconnection remain available. [Release details](docs/release-v0.3.12.md).
+- Quick **Tab** and **Enter** keys in screen and fleet control; the left shortcut group collapses to a thin strip from the right toolbar in landscape fullscreen.
+- A PC-style touch keyboard with Turkish Q, English QWERTY and German QWERTZ layouts, function keys and navigation keys.
+- Support for a keyboard and mouse paired to the phone by Bluetooth or USB. The input panel shows activity received by the browser and can stop PC control. Phone settings manage physical pairing and disconnection; this is not a complete device list.
+- **Files → Upload** sends files selected from a USB drive to the open PC folder when the phone's file picker exposes the drive.
+
+[v0.3.13 release details](docs/release-v0.3.13.md) · [v0.3.12 agreement update](docs/release-v0.3.12.md). Explicit consent, refusal and disconnection remain available.
 
 ## Download
 
@@ -17,7 +22,7 @@ The agreement is now a dated white A4-style document with 13 numbered sections, 
 | Linux RPM | [Sabreza-View-Linux-x86_64.rpm](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Linux-x86_64.rpm) |
 | Android (ARM64) | [Sabreza-View-Android.apk](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/Sabreza-View-Android.apk) |
 
-**Android:** the phone client is rebuilt as v0.3.12 with the International name and application identity.
+**Android:** the phone client is rebuilt as v0.3.13 with the International name and application identity.
 
 [Release history](https://github.com/beyzakararti/sabreza-view-international/releases) · [SHA256 checksums](https://github.com/beyzakararti/sabreza-view-international/releases/latest/download/SHA256SUMS.txt)
 
