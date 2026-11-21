@@ -2,6 +2,15 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
+## Aralıkta geliyor: v0.3.14
+
+v0.3.14'ün tam sürümü (Windows, macOS, Linux ve Android) **Aralık 2026** için planlanıyor. [Yalnızca Windows ön sürümü](https://github.com/beyzakararti/sabreza-view-international/releases/tag/v0.3.14) şimdiden indirilebilir; tam sürüm çıkana kadar son kararlı sürüm v0.3.13'tür.
+
+- **Cihazları bul:** Yerel `/admin` sayfası eşleşmiş telefon/tabletin son izinli konumunu zaman ve doğruluk yarıçapıyla gösterir ve cihazı çaldırabilir. Telefonda/tablette Ayarlar → Cihazları bul'dan konum paylaşımı açılır ve PC'nin son paylaşılan konumu görülür.
+- **PC çevrimdışıyken:** Telefon PC'nin son konumunun yerel kopyasını tutar; PC kapalıyken zaman, doğruluk ve harita bağlantısıyla gösterir. Canlı takip değildir; paylaşım kapatılınca kayıtlı konum silinir.
+
+Konum için tarayıcı ve sistem izni gerekir; yalnızca sayfa çalışırken güncellenir.
+
 ## v0.3.13 yenilikleri
 
 - Ekran ve filo kontrolüne hızlı **Tab** ve **Enter** tuşları eklendi. Yatay tam ekranda soldaki tuşlar sağdaki araç çubuğundan ince bir şeride daraltılabilir.

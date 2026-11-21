@@ -2,6 +2,15 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
+## Im Dezember: v0.3.14
+
+Die vollständige Version v0.3.14 (Windows, macOS, Linux und Android) ist für **Dezember 2026** geplant. Eine [Vorabversion nur für Windows](https://github.com/beyzakararti/sabreza-view-international/releases/tag/v0.3.14) ist bereits verfügbar; bis zur vollständigen Version bleibt v0.3.13 die aktuelle stabile Version.
+
+- **Geräte finden:** Die lokale Seite `/admin` zeigt den zuletzt freigegebenen Standort eines gekoppelten Telefons oder Tablets mit Zeit und Genauigkeitsradius und kann das Gerät klingeln lassen. Auf Telefon oder Tablet schaltet Einstellungen → Geräte finden die Standortfreigabe ein und zeigt den zuletzt geteilten PC-Standort.
+- **PC offline:** Das Telefon speichert eine lokale Kopie des letzten PC-Standorts und zeigt sie bei ausgeschaltetem PC mit Zeit, Genauigkeit und Kartenlink an. Keine Live-Ortung; beim Beenden der Freigabe wird der gespeicherte Standort gelöscht.
+
+Der Standort erfordert Browser- und Systemberechtigung und wird nur aktualisiert, solange die Seite läuft.
+
 ## Neu in v0.3.13
 
 - Schnelltasten für **Tab** und **Eingabe** in Bildschirm- und Flottensteuerung; im Querformat lässt sich die linke Tastengruppe über die rechte Werkzeugleiste zu einem schmalen Streifen einklappen.

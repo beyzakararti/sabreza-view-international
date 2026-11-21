@@ -2,6 +2,15 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [Türkçe](README.tr.md)
 
+## Coming in December: v0.3.14
+
+The full v0.3.14 release (Windows, macOS, Linux and Android) is planned for **December 2026**. A [Windows-only pre-release](https://github.com/beyzakararti/sabreza-view-international/releases/tag/v0.3.14) is already available; v0.3.13 remains the latest stable version until the full release.
+
+- **Find devices:** the local `/admin` page shows the last permitted location of a paired phone or tablet with time and accuracy radius, and can make the device ring. On the phone or tablet, Settings → Find devices turns location sharing on and shows the PC's last shared location.
+- **PC offline:** the phone keeps a local copy of the PC's last location, shown with time, accuracy and a map link when the PC is off. This is not live tracking; turning sharing off deletes the stored location.
+
+Location needs browser and system permission and updates only while the page is running.
+
 ## What is new in v0.3.13
 
 - Quick **Tab** and **Enter** keys in screen and fleet control; the left shortcut group collapses to a thin strip from the right toolbar in landscape fullscreen.
