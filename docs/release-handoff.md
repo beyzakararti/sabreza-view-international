@@ -1,0 +1,13 @@
+# Installer update and release handoff
+
+The revised Windows installer terms are prepared in the source repositories and are not yet a new binary release. Existing downloads and version claims remain unchanged. Before publication, verify the actual native wizard, readable compact terms, language choices, cancellation and the separate first-run managed-access consent on a clean Windows test machine. General terms acceptance must not enroll a device; refusal and disconnection must remain available.
+
+Build and test locally from the reviewed source commit. Keep private configuration, enrollment tokens, signing keys and device data out of Git and public artifacts. The detailed recipe is in the [International source handoff](https://github.com/beyzakararti/sabreza-view-international-source/blob/main/docs/release-handoff.md). Record the source commit, test results and SHA-256 checksums before accepting any installer for publication. Do not relabel old binaries as containing these changes.
+
+No hosted build, workflow rerun, version tag or release should be started before the owner confirms the available quota, possible cost and intended publication. The actual account quota has not been verified here. Actions usage is charged to the repository owner, not the person triggering the job; Sabri triggering this owner's workflow does not use his own allowance. Sabri can instead build on his local computer and provide the artifacts, checksums and verification notes for review. See [GitHub Actions billing](https://docs.github.com/en/billing/concepts/product-billing/github-actions).
+
+Source repositories can run audits on main pushes, PRs and a weekly schedule. Review those triggers before a source push. `[skip ci]` applies to push/PR jobs and does not stop scheduled jobs. This download repository currently has no checked-in Actions workflows. Publication remains a separate step after artifact review and authorization. See [workflow skipping](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/skip-workflow-runs).
+
+## Observed budget status (24 November 2026)
+
+Read-only inspection of International source [audit run 45211359982](https://github.com/beyzakararti/sabreza-view-international-source/actions/runs/45211359982) found this GitHub annotation: "The job was not started because an Actions budget is preventing further use." This confirms a budget block, not the exact remaining included allowance. The account billing summary could not be read with the current token's scopes; no permissions or spending limits were changed. No hosted workflow was started for this update.

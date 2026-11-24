@@ -53,36 +53,13 @@ Wenn Sie die Erklärung in der App akzeptieren, kann der Betreiber im Rahmen der
 4. Nach Zustimmung und erfolgreicher Verbindung erscheint der Computer in der Zentrale. Beide Computer benötigen Internet; die Zentrale muss laufen. Bei einem Fehler versuchen Sie es erneut, sobald die Verbindung wieder funktioniert.
 5. Öffnen Sie zum Beenden die Zustimmungsseite auf dem installierten Computer (`http://127.0.0.1:7377/consent`) und wählen Sie **Verbindung trennen**. Nur das Fenster zu schließen widerruft die Zustimmung nicht.
 
-## Einrichtung in Bildern
+## Aktualisierte Installationsbedingungen — noch nicht veröffentlicht
 
-Die Bilder zeigen die tatsächliche Oberfläche von v0.3.12 mit Beispieldaten. Abgebildet sind die Bildschirme nach dem Öffnen der Anwendung, nicht die Installationsfenster des Betriebssystems.
+Der nächste Windows-Installer ist dafür konfiguriert, allgemeine Nutzungsbedingungen im nativen Installationsassistenten als kompakten, lesbaren und scrollbar dargestellten Text anzuzeigen. Der Text beginnt mit Softwarenutzung, Nutzerpflichten und Leistungsgrenzen. Ein späterer Abschnitt erläutert den verwalteten Zugriff über Kararti is Watching, dessen Umfang und den Widerruf der Zustimmung.
 
-### 1. Den Zugriffsumfang lesen
+Die Annahme der Installationsbedingungen registriert den Computer nicht und erlaubt keinen Fernzugriff. Bei verwalteten Installationen bleibt eine gesonderte ausdrückliche Entscheidung beim ersten Start erforderlich, einschließlich **Ablehnen** und **Verbindung trennen**. Das Kontrollkästchen ist zunächst nicht aktiviert. Die persönliche Edition bleibt getrennt.
 
-Prüfen Sie beim Öffnen die Betreiberangaben, den Zugriffsumfang und den Zustimmungstext. Das Kontrollkästchen ist anfangs nicht aktiviert.
-
-<img src="docs/screenshots/de-consent.png" width="680" alt="1. Den Zugriffsumfang lesen">
-
-<details>
-<summary>Mobile Ansicht der Vereinbarung im A4-Stil</summary>
-
-Die Vereinbarung passt sich dem mobilen Browser an. Unten ist die gesamte Seite abgebildet; zum Lesen aller Abschnitte innerhalb des weißen Dokuments scrollen.
-
-<img src="docs/screenshots/de-consent-mobile.png" width="320" alt="Mobile Ansicht der Vereinbarung im A4-Stil">
-
-</details>
-
-### 2. Ihre Entscheidung treffen
-
-Aktivieren Sie nach dem Lesen bis zum Textende das Kästchen und stimmen Sie nur zu, wenn Sie den beschriebenen Zugriff wünschen. Sie können auch ablehnen. Das markierte Kästchen im Bild zeigt eine beispielhafte Benutzerentscheidung.
-
-<img src="docs/screenshots/de-consent-ready.png" width="680" alt="2. Ihre Entscheidung treffen">
-
-### 3. Verbindung prüfen und bei Bedarf trennen
-
-Nach erfolgreicher Verbindung erscheint die Statusanzeige. Über die Schaltfläche zum Trennen können Sie den Zugriff beenden.
-
-<img src="docs/screenshots/de-connected.png" width="680" alt="3. Verbindung prüfen und bei Bedarf trennen">
+Dies ist eine Quellcodeänderung; dafür wurde noch kein neuer Installer gebaut oder veröffentlicht. Die Downloads oben behalten das Verhalten ihrer bestehenden Versionen. Vor Veröffentlichung müssen der echte Windows-Installationsablauf und die Zustimmung beim ersten Start geprüft werden. Die früheren Zustimmungsbilder aus v0.3.12 wurden aus dieser aktuellen Anleitung entfernt, da sie den kommenden Assistenten nicht zeigen. Siehe [Übergabe zur Veröffentlichung](docs/release-handoff.md).
 
 ## Verbindung und Datenschutz
 

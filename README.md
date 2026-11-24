@@ -45,36 +45,13 @@ Location needs browser and system permission and updates only while the page is 
 4. After acceptance and successful connection, the computer appears in the operator's center. Both computers need internet access and the center must be running. If enrollment fails, the application displays an error; retry after connectivity is restored.
 5. To stop, open the consent page (`http://127.0.0.1:7377/consent` on the installed computer) and choose **Disconnect**. Closing a window alone is not the same as withdrawing consent.
 
-## Setup in pictures
+## Installer terms update — not yet released
 
-These screenshots show the actual v0.3.12 application UI with sample data. They show the screens after opening the application, rather than the operating system installer windows.
+The next Windows installer is configured to show general terms and conditions inside the native setup wizard, using a compact, readable, scrollable document. It begins with software use, user responsibilities and service limitations. A later section explains managed access through Kararti is Watching, its scope and how to withdraw permission.
 
-### 1. Read the access scope
+Accepting the installation terms does not register the computer or authorize remote access. Managed installations retain a separate explicit first-run choice, including **Decline** and **Disconnect**. The consent checkbox starts unchecked. The personal edition remains separate.
 
-On opening the application, review the operator information, access scope and consent text. The checkbox is initially unchecked.
-
-<img src="docs/screenshots/en-consent.png" width="680" alt="1. Read the access scope">
-
-<details>
-<summary>Mobile view of the A4-style agreement</summary>
-
-The agreement adapts to a phone browser. The full page is shown below; scroll inside the white document to read all sections.
-
-<img src="docs/screenshots/en-consent-mobile.png" width="320" alt="Mobile view of the A4-style agreement">
-
-</details>
-
-### 2. Make your choice
-
-After reaching the end of the text, check the box and accept only if you want the described access. You can decline instead. The checked box in this example represents a user choice.
-
-<img src="docs/screenshots/en-consent-ready.png" width="680" alt="2. Make your choice">
-
-### 3. Check the connection and disconnect when needed
-
-After a successful connection, the status screen appears. Use its disconnect button to end access.
-
-<img src="docs/screenshots/en-connected.png" width="680" alt="3. Check the connection and disconnect when needed">
+This is a source update; no new installer has been built or published for it. The downloads above retain their existing release behavior. Native Windows installation and first-run consent must be verified before publication. Older v0.3.12 consent screenshots have been removed from this current walkthrough because they do not show the upcoming wizard. See the [release handoff](docs/release-handoff.md).
 
 ## Connection and privacy
 

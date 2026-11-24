@@ -53,36 +53,13 @@ Uygulamadaki açıklamayı kabul ederseniz operatör, uygulamanın desteklediği
 4. Onaydan ve başarılı bağlantıdan sonra bilgisayar operatörün merkezinde görünür. İki bilgisayar internete bağlı, merkez çalışır durumda olmalıdır. Kayıt başarısızsa hata gösterilir; bağlantı düzeldikten sonra yeniden deneyin.
 5. Durdurmak için kurulu bilgisayarda onay sayfasını (`http://127.0.0.1:7377/consent`) açıp **Bağlantıyı kes** seçin. Yalnızca pencereyi kapatmak onayı geri çekmek değildir.
 
-## Görsellerle kurulum
+## Kurulum sözleşmesi güncellemesi — henüz yayımlanmadı
 
-Görseller v0.3.12 uygulamasının gerçek arayüzünden, örnek verilerle hazırlanmıştır. İşletim sisteminin yükleyici pencerelerini değil, uygulama açıldıktan sonraki ekranları gösterir.
+Sonraki Windows kurucusu, genel kullanım koşullarını kurulum sihirbazının içinde küçük, okunabilir ve kaydırılabilir bir metin olarak gösterecek şekilde yapılandırıldı. Metin programın kullanımı, kullanıcı sorumlulukları ve hizmet sınırlarıyla başlar. Kararti is Watching üzerinden yönetilen erişim, erişimin kapsamı ve onayı geri çekme yöntemi sonraki bir bölümde açıklanır.
 
-### 1. Erişim kapsamını okuyun
+Kurulum koşullarını kabul etmek bilgisayarı merkeze kaydetmez ve uzaktan erişim izni vermez. Yönetilen kurulumlarda ilk açılıştaki ayrı ve açık onay, **Reddet** ve **Bağlantıyı kes** seçenekleri korunur. Onay kutusu başlangıçta seçili değildir. Kişisel sürüm ayrı kalır.
 
-Uygulamayı açınca operatör bilgisi, erişim kapsamı ve onay metni görünür. Metni inceleyin; onay kutusu başlangıçta seçili değildir.
-
-<img src="docs/screenshots/tr-consent.png" width="680" alt="1. Erişim kapsamını okuyun">
-
-<details>
-<summary>A4 sözleşmenin telefon görünümü</summary>
-
-Sözleşme telefon tarayıcısına uyarlanır. Aşağıda sayfanın tamamı gösterilir; tüm maddeleri okumak için beyaz belgenin içinde kaydırın.
-
-<img src="docs/screenshots/tr-consent-mobile.png" width="320" alt="A4 sözleşmenin telefon görünümü">
-
-</details>
-
-### 2. Kararınızı verin
-
-Metnin sonuna ulaştıktan sonra yalnızca açıklanan erişimi istiyorsanız kutuyu işaretleyip onaylayın. İstemiyorsanız reddedebilirsiniz. Görseldeki işaretli kutu örnek bir kullanıcı seçimini gösterir.
-
-<img src="docs/screenshots/tr-consent-ready.png" width="680" alt="2. Kararınızı verin">
-
-### 3. Bağlantıyı görün ve gerektiğinde kesin
-
-Başarılı bağlantı sonrasında durum ekranı görünür. Erişimi sonlandırmak için bu ekrandaki bağlantıyı kesme düğmesini kullanın.
-
-<img src="docs/screenshots/tr-connected.png" width="680" alt="3. Bağlantıyı görün ve gerektiğinde kesin">
+Bu bir kaynak güncellemesidir; bu değişiklik için yeni kurucu derlenmedi veya yayımlanmadı. Yukarıdaki indirmeler mevcut sürüm davranışını korur. Yayımdan önce gerçek Windows kurulum akışı ve ilk açılış onayı doğrulanmalıdır. Eski v0.3.12 onay ekranları yeni sihirbazı göstermediğinden güncel anlatımdan çıkarıldı. Bkz. [yayın devri](docs/release-handoff.md).
 
 ## Bağlantı ve gizlilik
 
