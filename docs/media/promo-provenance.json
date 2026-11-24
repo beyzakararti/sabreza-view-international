@@ -1,47 +1,76 @@
 {
-  "duration": 35,
+  "revision": 2,
+  "duration": 36,
   "fps": 30,
   "size": [
     1920,
     1080
   ],
-  "source_job": "1c10783c-113a-4a2a-9f92-08af610155f9",
-  "localization_credits": 0,
   "on_screen_language": "en",
-  "local_audio": "original synthesized composition; no third-party music",
-  "ui": "real application captures with synthetic demo data",
-  "source_revision": "38e5e8ca3c098c42128798b8cc8af02b7beb09e2",
+  "source_job": "1c10783c-113a-4a2a-9f92-08af610155f9",
+  "new_generation_jobs": 0,
+  "audio": "Original locally synthesized plucked strings, bass and soft percussion; no sampled song or external audio service.",
+  "ui": "Real unmodified Sabreza frontend. Isolated fixture desktop; animated comparison of tablet and home PC is illustrative, not a physical-device remote session.",
+  "interaction_evidence": {
+    "source": "907a5b255fe2838210cd40d316e65b0c334ffdfd",
+    "method": "Actual unmodified Sabreza frontend; isolated localhost fixture desktop. Browser pointer actions emitted real screen.input messages; fixture responses update the demo feed. No physical PC or internet session was controlled.",
+    "received": [
+      {
+        "t": "screen.input",
+        "cmd": {
+          "screen": 0,
+          "type": "click",
+          "x": 0.31,
+          "y": 0.84,
+          "button": "left"
+        }
+      },
+      {
+        "t": "screen.input",
+        "cmd": {
+          "screen": 0,
+          "type": "click",
+          "x": 0.57,
+          "y": 0.84,
+          "button": "left"
+        }
+      }
+    ],
+    "finalPhase": 3,
+    "errors": []
+  },
+  "feature_capture_revision": "38e5e8ca3c098c42128798b8cc8af02b7beb09e2",
   "timeline": [
     [
-      "live-action",
+      "lifestyle",
       0,
-      9
+      7
     ],
     [
-      "remote-control-ui",
-      9,
-      14
-    ],
-    [
-      "system-ui",
-      14,
+      "illustrative-remote-interaction",
+      7,
       19
     ],
     [
-      "files-notifications-ui",
+      "system",
       19,
-      24
+      23
     ],
     [
-      "live-action",
-      24,
+      "files",
+      23,
       27
     ],
     [
-      "brand-outro",
+      "lifestyle",
       27,
-      35
+      30
+    ],
+    [
+      "outro",
+      30,
+      36
     ]
   ],
-  "sha256": "fdcf0d3d0d9841364915ca403817b263b3ce43ebddefc8ccc4a7bda6445ad595"
+  "sha256": "50cfcac4460b8dbab560aec924b9c13e43c0a454a0784c26a15d4998444c3b36"
 }

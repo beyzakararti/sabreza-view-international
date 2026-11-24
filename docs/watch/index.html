@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Watch Sabreza View: take your home workspace with you. Remote PC control, system status and files from your phone or tablet.">
+  <meta name="theme-color" content="#0a111d">
+  <title>Watch Sabreza View — Your PC stays home.</title>
+  <style>
+    :root{color-scheme:dark;font-family:Inter,Segoe UI,system-ui,sans-serif;background:#0a111d;color:#edf4ff}
+    *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 85% 20%,#15304d 0,transparent 54%),#0a111d;min-height:100vh}
+    main{max-width:1192px;margin:auto;padding:40px 32px 30px}header{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:44px}
+    .brand{font-weight:700;letter-spacing:.12em;font-size:13px}.repo{color:#b6c9e3;text-decoration:none;font-size:14px}.repo:hover{text-decoration:underline}
+    .intro{margin-bottom:28px}.eyebrow{color:#f1bf7b;font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase}
+    h1{font-size:clamp(32px,5.1vw,60px);line-height:1.08;letter-spacing:-.045em;margin:14px 0 18px;font-weight:750}h1 span{color:#a2b5cd}
+    .lead{color:#b6c9df;font-size:17px;line-height:1.6;max-width:760px;margin:0}
+    .player{position:relative;border:1px solid #34495f;border-radius:18px;overflow:hidden;background:#04080e;box-shadow:0 22px 85px #0005;aspect-ratio:16/9}
+    video{display:block;width:100%;height:100%;object-fit:contain}.play{position:absolute;inset:0;width:100%;border:0;background:transparent;color:white;cursor:pointer;display:grid;place-items:center}
+    .play span{background:#164e87ec;border:2px solid #ffffffdc;box-shadow:0 6px 40px #0006;border-radius:999px;width:84px;height:84px;display:grid;place-items:center;font-size:32px;padding-left:6px;transition:transform .18s}.play:hover span{transform:scale(1.07)}.play:focus-visible{outline:4px solid #f1bf7b;outline-offset:-5px}.play[hidden]{display:none}
+    .bar{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin:18px 0 24px;color:#a2b5cd;font-size:13px}.bar a{color:#c9dcf4}
+    .chapters{display:flex;gap:10px;flex-wrap:wrap}.chapters button{border:1px solid #34495f;background:#132133;color:#c9dcf4;border-radius:999px;padding:10px 16px;cursor:pointer;font:inherit;font-size:13px}.chapters button:hover{background:#233d59}.chapters button:focus-visible{outline:2px solid #f1bf7b;outline-offset:3px}
+    footer{border-top:1px solid #25364a;margin-top:30px;padding-top:22px;line-height:1.7;font-size:12px;color:#94a9c3}footer a{color:#b6c9e3}.status{color:#efc779;font-size:14px}
+    @media(max-width:600px){main{padding:24px 16px}header{margin-bottom:32px}.brand{font-size:10px;letter-spacing:.08em}.repo{font-size:12px}.lead{font-size:15px}.player{border-radius:10px}.play span{width:58px;height:58px;font-size:23px}.bar{font-size:12px}.chapters{gap:7px}.chapters button{padding:9px 12px;font-size:12px}}
+  </style>
+</head>
+<body>
+<main>
+  <header><a class="brand repo" href="https://github.com/beyzakararti/sabreza-view-international">SABREZA VIEW INTERNATIONAL</a><a class="repo" href="https://github.com/beyzakararti/sabreza-view-international#readme">Explore the project ↗</a></header>
+  <section class="intro"><div class="eyebrow">Your workspace, wherever your day takes you</div><h1>Your PC stays home.<br><span>You don’t have to.</span></h1><p class="lead">Open your project. Review the result. Get back to your day. Watch how Sabreza brings your authorized home workspace to your phone or tablet.</p></section>
+  <div class="player">
+    <video id="film" controls playsinline preload="metadata" poster="../media/promo-still.jpg" aria-label="Sabreza View English promotional film">
+      <source src="../media/sabreza-view-promo-en.mp4" type="video/mp4">
+      <track kind="subtitles" src="../media/promo.en.vtt" srclang="en" label="English">
+      <track kind="subtitles" src="../media/promo.tr.vtt" srclang="tr" label="Türkçe">
+      <track kind="subtitles" src="../media/promo.de.vtt" srclang="de" label="Deutsch">
+      Your browser cannot play this video. <a href="../media/sabreza-view-promo-en.mp4">Download the MP4.</a>
+    </video>
+    <button class="play" id="play" hidden aria-label="Play the film"><span aria-hidden="true">▶</span></button>
+  </div>
+  <p id="status" class="status" role="status" hidden></p>
+  <div class="bar"><span>36 seconds · Full HD · English · Optional EN / TR / DE subtitles</span><a href="../media/sabreza-view-promo-en.mp4" download>Download MP4</a></div>
+  <nav class="chapters" aria-label="Video chapters"><button data-time="0">The story</button><button data-time="7">Remote control</button><button data-time="19">System status</button><button data-time="23">Files</button></nav>
+  <footer>Fictional lifestyle scenes and an illustrative session using real Sabreza controls with a sample project. The two-screen sequence demonstrates the interaction; it is not a recording of a physical tablet controlling a distant PC or a latency benchmark. Personal use requires separate configuration, authorized access and an awake, reachable PC. <a href="https://github.com/beyzakararti/sabreza-view-international#readme">Read access and consent conditions</a> · <a href="https://github.com/beyzakararti/sabreza-view-international/blob/main/docs/offline-use.md">Offline and local-network use</a>.</footer>
+</main>
+<script>
+  const film=document.getElementById('film'),play=document.getElementById('play'),status=document.getElementById('status');
+  play.hidden=false;
+  async function start(){try{await film.play();play.hidden=true;status.hidden=true;}catch{play.hidden=true;status.textContent='Use the video controls to start playback.';status.hidden=false;}}
+  play.addEventListener('click',start);film.addEventListener('play',()=>play.hidden=true);
+  document.querySelectorAll('[data-time]').forEach(button=>button.addEventListener('click',()=>{film.currentTime=Number(button.dataset.time);start();}));
+  film.addEventListener('error',()=>{play.hidden=true;status.textContent='Video playback is unavailable in this browser. You can use the download link below.';status.hidden=false;});
+</script>
+</body>
+</html>

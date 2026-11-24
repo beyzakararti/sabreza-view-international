@@ -12,11 +12,11 @@ Lassen Sie Ihren PC, Ihre Projekte und Server zu Hause weiterarbeiten und bleibe
 
 [Funktionsübersicht mit Screenshots](#funktionsuebersicht) · [Downloads](#download) · [Persönliche Einrichtung](MANUAL-MODE.de.md)
 
-## Sabreza View in 35 Sekunden
+## Sabreza View in 36 Sekunden
 
-[![Sabreza-View-Werbefilm abspielen](docs/media/promo-poster.png)](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-en.mp4)
+[![Sabreza-View-Werbefilm abspielen](docs/media/promo-poster.jpg)](https://beyzakararti.github.io/sabreza-view-international/watch/)
 
-**[Film ansehen / herunterladen · 1080p · 35 Sekunden](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-en.mp4)**
+**[Film im Browser ansehen · 1080p · 36 Sekunden](https://beyzakararti.github.io/sabreza-view-international/watch/)**
 
 Lass die letzten Aufgaben zu Hause laufen, prüfe unterwegs den Projektstand und verbinde dich bei Bedarf mit deinem autorisierten Arbeitsplatz. Der Film verbindet fiktive KI-generierte Alltagsszenen mit der echten Anwendungsoberfläche und Beispieldaten. Er zeigt persönliche Nutzung; die Zugriffs- und Zustimmungsbedingungen der Downloads stehen unten. Englische Einblendungen; [Untertiteldateien und Website-Einbindung](docs/media/README.md) liegen bei.
 
