@@ -1,6 +1,6 @@
 # Sabreza View promotional film
 
-35 seconds, 1920 × 1080, H.264/AAC MP4 with fast-start playback. Turkish on-screen copy; Turkish, English and German WebVTT files are provided for an HTML video player.
+35 seconds, 1920 × 1080, H.264/AAC MP4 with fast-start playback. English on-screen copy and application interface; Turkish, English and German WebVTT files are provided for an HTML video player.
 
 The lifestyle scenes are AI-generated fiction, not a customer testimonial. Interface shots come from the actual application with synthetic demonstration data. The remote-screen capture uses an example feed, not a live connection. The scenario depicts separately configured authorized personal use; current operator-managed downloads require their own explicit consent. No claim of offline control, guaranteed notification delivery, precise location or universal hardware support is made.
 
@@ -10,7 +10,7 @@ For a future website, copy these files to its own media directory and adjust the
 
 ```html
 <video controls playsinline preload="metadata" poster="/media/promo-poster.png">
-  <source src="/media/sabreza-view-promo-tr.mp4" type="video/mp4">
+  <source src="/media/sabreza-view-promo-en.mp4" type="video/mp4">
   <track kind="subtitles" src="/media/promo.tr.vtt" srclang="tr" label="Türkçe">
   <track kind="subtitles" src="/media/promo.en.vtt" srclang="en" label="English">
   <track kind="subtitles" src="/media/promo.de.vtt" srclang="de" label="Deutsch">

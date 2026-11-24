@@ -6,6 +6,8 @@
     1080
   ],
   "source_job": "1c10783c-113a-4a2a-9f92-08af610155f9",
+  "localization_credits": 0,
+  "on_screen_language": "en",
   "local_audio": "original synthesized composition; no third-party music",
   "ui": "real application captures with synthetic demo data",
   "source_revision": "38e5e8ca3c098c42128798b8cc8af02b7beb09e2",
@@ -41,5 +43,5 @@
       35
     ]
   ],
-  "sha256": "7682896f12d1a3877360a4a772a567ce96dae64395319b7ee1f0b97f8e812372"
+  "sha256": "fdcf0d3d0d9841364915ca403817b263b3ce43ebddefc8ccc4a7bda6445ad595"
 }

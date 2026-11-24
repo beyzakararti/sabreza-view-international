@@ -14,11 +14,11 @@ Evdeki güçlü PC'niz, projeleriniz ve sunucularınız çalışmaya devam ederk
 
 ## 35 saniyede Sabreza View
 
-[![Sabreza View tanıtım filmini oynat](docs/media/promo-poster.png)](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)
+[![Sabreza View tanıtım filmini oynat](docs/media/promo-poster.png)](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-en.mp4)
 
-**[Tanıtım filmini izle / indir · 1080p · 35 saniye](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)**
+**[Tanıtım filmini izle / indir · 1080p · 35 saniye](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-en.mp4)**
 
-Evde son görevlerini bırak, dışarıdayken projenin durumunu gör ve gerektiğinde yetkili çalışma alanına bağlan. Film; yapay zekâyla oluşturulmuş kurmaca yaşam sahnelerini, örnek verilerle gerçek uygulama arayüzünü birleştirir. Kişisel kullanım senaryosudur; indirmelerin erişim ve onay koşullarını aşağıdan inceleyin. [Altyazılar ve web sitesinde kullanım](docs/media/README.md).
+Evde son görevlerini bırak, dışarıdayken projenin durumunu gör ve gerektiğinde yetkili çalışma alanına bağlan. Film; yapay zekâyla oluşturulmuş kurmaca yaşam sahnelerini, örnek verilerle gerçek uygulama arayüzünü birleştirir. Kişisel kullanım senaryosudur; indirmelerin erişim ve onay koşullarını aşağıdan inceleyin. Film dili İngilizcedir. [Altyazılar ve web sitesinde kullanım](docs/media/README.md).
 
 ## Aralıkta geliyor: v0.3.14
 

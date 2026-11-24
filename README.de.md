@@ -14,11 +14,11 @@ Lassen Sie Ihren PC, Ihre Projekte und Server zu Hause weiterarbeiten und bleibe
 
 ## Sabreza View in 35 Sekunden
 
-[![Sabreza-View-Werbefilm abspielen](docs/media/promo-poster.png)](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)
+[![Sabreza-View-Werbefilm abspielen](docs/media/promo-poster.png)](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-en.mp4)
 
-**[Film ansehen / herunterladen · 1080p · 35 Sekunden](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)**
+**[Film ansehen / herunterladen · 1080p · 35 Sekunden](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-en.mp4)**
 
-Lass die letzten Aufgaben zu Hause laufen, prüfe unterwegs den Projektstand und verbinde dich bei Bedarf mit deinem autorisierten Arbeitsplatz. Der Film verbindet fiktive KI-generierte Alltagsszenen mit der echten Anwendungsoberfläche und Beispieldaten. Er zeigt persönliche Nutzung; die Zugriffs- und Zustimmungsbedingungen der Downloads stehen unten. Türkische Einblendungen; [Untertiteldateien und Website-Einbindung](docs/media/README.md) liegen bei.
+Lass die letzten Aufgaben zu Hause laufen, prüfe unterwegs den Projektstand und verbinde dich bei Bedarf mit deinem autorisierten Arbeitsplatz. Der Film verbindet fiktive KI-generierte Alltagsszenen mit der echten Anwendungsoberfläche und Beispieldaten. Er zeigt persönliche Nutzung; die Zugriffs- und Zustimmungsbedingungen der Downloads stehen unten. Englische Einblendungen; [Untertiteldateien und Website-Einbindung](docs/media/README.md) liegen bei.
 
 ## Im Dezember: v0.3.14
 
