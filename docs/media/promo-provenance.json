@@ -1,0 +1,45 @@
+{
+  "duration": 35,
+  "fps": 30,
+  "size": [
+    1920,
+    1080
+  ],
+  "source_job": "1c10783c-113a-4a2a-9f92-08af610155f9",
+  "local_audio": "original synthesized composition; no third-party music",
+  "ui": "real application captures with synthetic demo data",
+  "source_revision": "38e5e8ca3c098c42128798b8cc8af02b7beb09e2",
+  "timeline": [
+    [
+      "live-action",
+      0,
+      9
+    ],
+    [
+      "remote-control-ui",
+      9,
+      14
+    ],
+    [
+      "system-ui",
+      14,
+      19
+    ],
+    [
+      "files-notifications-ui",
+      19,
+      24
+    ],
+    [
+      "live-action",
+      24,
+      27
+    ],
+    [
+      "brand-outro",
+      27,
+      35
+    ]
+  ],
+  "sha256": "7682896f12d1a3877360a4a772a567ce96dae64395319b7ee1f0b97f8e812372"
+}

@@ -12,6 +12,14 @@ Lassen Sie Ihren PC, Ihre Projekte und Server zu Hause weiterarbeiten und bleibe
 
 [Funktionsübersicht mit Screenshots](#funktionsuebersicht) · [Downloads](#download) · [Persönliche Einrichtung](MANUAL-MODE.de.md)
 
+## Sabreza View in 35 Sekunden
+
+[![Sabreza-View-Werbefilm abspielen](docs/media/promo-poster.png)](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)
+
+**[Film ansehen / herunterladen · 1080p · 35 Sekunden](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)**
+
+Lass die letzten Aufgaben zu Hause laufen, prüfe unterwegs den Projektstand und verbinde dich bei Bedarf mit deinem autorisierten Arbeitsplatz. Der Film verbindet fiktive KI-generierte Alltagsszenen mit der echten Anwendungsoberfläche und Beispieldaten. Er zeigt persönliche Nutzung; die Zugriffs- und Zustimmungsbedingungen der Downloads stehen unten. Türkische Einblendungen; [Untertiteldateien und Website-Einbindung](docs/media/README.md) liegen bei.
+
 ## Im Dezember: v0.3.14
 
 Die vollständige Version v0.3.14 (Windows, macOS, Linux und Android) ist für **Dezember 2026** geplant. Eine [Vorabversion nur für Windows](https://github.com/beyzakararti/sabreza-view-international/releases/tag/v0.3.14) ist bereits verfügbar; bis zur vollständigen Version bleibt v0.3.13 die aktuelle stabile Version.

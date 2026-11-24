@@ -12,6 +12,14 @@ Keep your home PC, projects and servers working while you stay connected from a 
 
 [Screenshot feature guide](#feature-guide) · [Downloads](#download) · [Personal setup guide](MANUAL-MODE.md)
 
+## Sabreza View in 35 seconds
+
+[![Play the Sabreza View promotional film](docs/media/promo-poster.png)](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)
+
+**[Watch / download the film · 1080p · 35 seconds](https://github.com/beyzakararti/sabreza-view-international/raw/refs/heads/main/docs/media/sabreza-view-promo-tr.mp4)**
+
+Leave the last tasks running at home, check your project's status outside and reconnect to your authorized workspace when needed. This film combines fictional AI-generated lifestyle scenes with the real application interface and example data. It depicts personal use; review the downloads' access and consent conditions below. Turkish on-screen text; [subtitle files and website integration](docs/media/README.md) are provided.
+
 ## Coming in December: v0.3.14
 
 The full v0.3.14 release (Windows, macOS, Linux and Android) is planned for **December 2026**. A [Windows-only pre-release](https://github.com/beyzakararti/sabreza-view-international/releases/tag/v0.3.14) is already available; v0.3.13 remains the latest stable version until the full release.
