@@ -1,0 +1,115 @@
+{
+  "captured": "2026-11-24",
+  "source": "38e5e8ca3c098c42128798b8cc8af02b7beb09e2",
+  "method": "Actual unmodified application HTML/CSS/JS rendered in Chromium. Isolated synthetic API fixtures; no application backend, device, monitoring, file operation or command execution.",
+  "data": "All metrics, histories, file names, directories and device names are synthetic. Settings toggles illustrate configurable choices; they are not claims about default state or successful notification delivery.",
+  "remoteFeed": "Remote-control screen image is a cropped screenshot of the same real System UI with synthetic readings. It is a static demonstration image, not a live desktop capture or remote connection.",
+  "input": "External input scene shows genuine browser guidance. No Bluetooth/USB hardware was paired or tested. Desktop and resized browser viewports, not physical-device or native app screenshots.",
+  "images": [
+    {
+      "name": "tr-system.png",
+      "width": 1050,
+      "height": 1440,
+      "scene": "system",
+      "language": "tr"
+    },
+    {
+      "name": "tr-notifications.png",
+      "width": 1050,
+      "height": 1190,
+      "scene": "notifications",
+      "language": "tr"
+    },
+    {
+      "name": "tr-files.png",
+      "width": 1050,
+      "height": 720,
+      "scene": "files",
+      "language": "tr"
+    },
+    {
+      "name": "tr-remote-controls.png",
+      "width": 1050,
+      "height": 1200,
+      "scene": "remote-controls",
+      "language": "tr"
+    },
+    {
+      "name": "tr-external-input.png",
+      "width": 760,
+      "height": 850,
+      "scene": "external-input",
+      "language": "tr"
+    },
+    {
+      "name": "en-system.png",
+      "width": 1050,
+      "height": 1440,
+      "scene": "system",
+      "language": "en"
+    },
+    {
+      "name": "en-notifications.png",
+      "width": 1050,
+      "height": 1190,
+      "scene": "notifications",
+      "language": "en"
+    },
+    {
+      "name": "en-files.png",
+      "width": 1050,
+      "height": 720,
+      "scene": "files",
+      "language": "en"
+    },
+    {
+      "name": "en-remote-controls.png",
+      "width": 1050,
+      "height": 1200,
+      "scene": "remote-controls",
+      "language": "en"
+    },
+    {
+      "name": "en-external-input.png",
+      "width": 760,
+      "height": 850,
+      "scene": "external-input",
+      "language": "en"
+    },
+    {
+      "name": "de-system.png",
+      "width": 1050,
+      "height": 1440,
+      "scene": "system",
+      "language": "de"
+    },
+    {
+      "name": "de-notifications.png",
+      "width": 1050,
+      "height": 1190,
+      "scene": "notifications",
+      "language": "de"
+    },
+    {
+      "name": "de-files.png",
+      "width": 1050,
+      "height": 720,
+      "scene": "files",
+      "language": "de"
+    },
+    {
+      "name": "de-remote-controls.png",
+      "width": 1050,
+      "height": 1200,
+      "scene": "remote-controls",
+      "language": "de"
+    },
+    {
+      "name": "de-external-input.png",
+      "width": 760,
+      "height": 850,
+      "scene": "external-input",
+      "language": "de"
+    }
+  ]
+}
