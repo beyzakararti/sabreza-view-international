@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "duration": 36,
   "fps": 30,
   "size": [
@@ -9,7 +9,7 @@
   "on_screen_language": "en",
   "source_job": "1c10783c-113a-4a2a-9f92-08af610155f9",
   "new_generation_jobs": 0,
-  "audio": "Original locally synthesized plucked strings, bass and soft percussion; no sampled song or external audio service.",
+  "audio": "Owner-supplied AKAI (Slowed / Extended) MP3, first 36 seconds, level adjusted with short entrance and exit fades. No audio generation service used.",
   "ui": "Real unmodified Sabreza frontend. Isolated fixture desktop; animated comparison of tablet and home PC is illustrative, not a physical-device remote session.",
   "interaction_evidence": {
     "source": "907a5b255fe2838210cd40d316e65b0c334ffdfd",
@@ -72,5 +72,5 @@
       36
     ]
   ],
-  "sha256": "50cfcac4460b8dbab560aec924b9c13e43c0a454a0784c26a15d4998444c3b36"
+  "sha256": "1558bdca37cbbf12d90948f10ca1da8ce188b3853ceb8bae8b86f214c9827315"
 }
